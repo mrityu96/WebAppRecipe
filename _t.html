@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sattvic Kitchen · Pure Vegetarian Meal Plan</title>
+  <meta name="description" content="A 45-day no-onion, no-garlic Sattvic meal plan with global and Indian recipes, in English and Hindi." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700&family=Tiro+Devanagari+Hindi&family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+<style>*,*::before,*::after{transition:none!important;animation:none!important}.stagger,.reveal{opacity:1!important;transform:none!important}</style></head>
+<body>
+  <div class="scroll-progress" id="scrollProgress"></div>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="siteHeader">
+    <div class="container header-inner">
+      <a href="#home" class="brand" aria-label="Home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 40 40"><path d="M20 4c6 6 9 12 9 18a9 9 0 0 1-18 0c0-6 3-12 9-18z" fill="currentColor" opacity=".9"/><path d="M20 14v22" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/></svg>
+        </span>
+        <span class="brand-text" data-i18n="brand">Sattvic Kitchen</span>
+      </a>
+
+      <nav class="main-nav" aria-label="Primary">
+        <a href="#home" class="nav-link" data-route="home"><span class="nl" data-i18n="navHome">Home</span><span class="ns" data-i18n="navHomeS">Home</span></a>
+        <a href="#explore" class="nav-link" data-route="explore"><span class="nl" data-i18n="navExplore">Explore</span><span class="ns" data-i18n="navExploreS">Explore</span></a>
+        <a href="#today" class="nav-link" data-route="today"><span class="nl" data-i18n="navPlan">Daily Plan</span><span class="ns" data-i18n="navPlanS">Plan</span></a>
+        <a href="#snacks" class="nav-link" data-route="snacks"><span class="nl" data-i18n="navSnacks">Evening Snacks</span><span class="ns" data-i18n="navSnacksS">Snacks</span></a>
+        <a href="#postpartum" class="nav-link" data-route="postpartum"><span class="nl" data-i18n="navPP">Post-Partum Care</span><span class="ns" data-i18n="navPPS">Mother</span></a>
+        <span class="nav-indicator" id="navIndicator" aria-hidden="true"></span>
+      </nav>
+
+      <button class="pdf-btn search-btn" id="searchBtn" aria-label="Search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <span data-i18n="search">Search</span><kbd>/</kbd>
+      </button>
+
+      <button class="pdf-btn" id="pdfBtn" aria-label="Download PDF">
+        <svg viewBox="0 0 24 24"><path d="M12 4v11m0 0l-4.5-4.5M12 15l4.5-4.5M5 20h14"/></svg>
+        <span>PDF</span>
+      </button>
+
+      <button class="lang-toggle" id="langToggle" aria-label="Switch language">
+        <span class="lang-opt" data-lang="en">EN</span>
+        <span class="lang-opt" data-lang="hi">हिं</span>
+        <span class="lang-thumb" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- ============ VIEW: HOME (the collection, no dates) ============ -->
+    <section class="view" id="view-home" data-view="home">
+      <div class="hero home-hero">
+        <div class="hero-bg" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span></div>
+        <div class="container hero-inner">
+          <p class="eyebrow stagger" data-i18n="homeEyebrow">The Prasadam Collection</p>
+          <h1 class="hero-title stagger"><span data-i18n="homeTitleA">Food offered with love,</span> <em data-i18n="homeTitleB">shared with everyone.</em></h1>
+          <p class="hero-sub stagger" id="homeSub"></p>
+          <button class="home-search stagger" id="homeSearch">
+            <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+            <span data-i18n="homeSearchPh">Search dishes, ingredients or cuisines…</span><kbd>/</kbd>
+          </button>
+          <ul class="home-stats stagger" id="homeStats"></ul>
+        </div>
+      </div>
+      <div class="container">
+        <nav class="home-kinds reveal" id="homeKinds" aria-label="Categories"></nav>
+        <div id="homeRowsBox"></div>
+        <a href="#today" class="plan-link reveal" data-i18n="homePlanLink">Prefer a day-by-day menu? Open the Daily Plan →</a>
+      </div>
+    </section>
+
+    <!-- ============ VIEW: EXPLORE (filters) ============ -->
+    <section class="view" id="view-explore" data-view="explore" hidden>
+      <div class="page-hero container ex-hero">
+        <p class="eyebrow" data-i18n="exEyebrow">Find your dish</p>
+        <h1 class="page-title" data-i18n="exTitle">Explore</h1>
+      </div>
+      <div class="container ex-layout">
+        <aside class="ex-filters" id="exFiltersWrap">
+          <button class="ex-close" data-ex-close aria-label="Close filters"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+          <div id="exFilters"></div>
+        </aside>
+        <div class="ex-main">
+          <div class="ex-toolbar">
+            <div class="search ex-search">
+              <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+              <input type="search" id="exSearch" data-i18n-placeholder="exSearchPh" placeholder="Search within results…" />
+            </div>
+            <button class="pdf-btn ex-filter-btn" id="exFilterToggle"><svg viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4"/></svg><span data-i18n="filters">Filters</span> <span id="exFilterCount"></span></button>
+            <label class="ex-sort"><span data-i18n="sortLabel">Sort</span><select id="exSort"></select></label>
+          </div>
+          <div class="ex-meta"><p id="exCount" class="ex-count"></p><div class="ex-chips" id="exChips"></div></div>
+          <div class="card-grid ex-grid" id="exGrid"></div>
+          <button class="primary-btn ex-more" id="exMore" hidden></button>
+        </div>
+      </div>
+      <div class="ex-scrim" data-ex-close></div>
+    </section>
+    <!-- ============ VIEW: TODAY ============ -->
+    <section class="view" id="view-today" data-view="today" hidden>
+      <div class="hero">
+        <div class="hero-bg" aria-hidden="true">
+          <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+        </div>
+        <div class="container hero-inner">
+          <nav class="plan-tabs" aria-label="Daily plan views"><a href="#today" class="plan-tab" data-tab="today" data-i18n="tabToday">Today</a><a href="#plan" class="plan-tab" data-tab="plan" data-i18n="tabCalendar">54-day calendar</a></nav>
+          <p class="eyebrow stagger" id="heroDate"></p>
+          <h1 class="hero-title stagger">
+            <span data-i18n="heroTitleA">Pure food,</span>
+            <em data-i18n="heroTitleB">peaceful mind.</em>
+          </h1>
+          <p class="hero-sub stagger" data-i18n="heroSub">Your daily Sattvic menu, with no onion and no garlic, from kitchens around the world.</p>
+
+          <div class="day-switch stagger">
+            <button class="icon-btn" id="prevDay" aria-label="Previous day">
+              <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <button class="day-pill" id="dayPill" aria-haspopup="dialog" aria-expanded="false">
+              <span class="day-pill-top"><span id="dayLabel"></span><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="3"/><path d="M4 10h16M9 3v4M15 3v4"/></svg></span>
+              <span class="day-pill-hint" data-i18n="jumpHint">Tap to pick a day</span>
+              <span class="day-progress"><span id="dayProgressBar"></span></span>
+            </button>
+            <button class="icon-btn" id="nextDay" aria-label="Next day">
+              <svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>
+            </button>
+            <button class="text-btn" id="backToday" hidden data-i18n="backToday">Back to today</button>
+          </div>
+
+          <ul class="promise stagger">
+            <li data-i18n="p1">No Onion</li>
+            <li data-i18n="p2">No Garlic</li>
+            <li data-i18n="p3">No Eggs</li>
+            <li data-i18n="p4">No Mushrooms</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="today-grid" id="todayGrid"></div>
+        <section class="day-nutri reveal" id="dayNutri" aria-live="polite"></section>
+
+        <div class="section-head reveal">
+          <div>
+            <p class="eyebrow" data-i18n="upNextEyebrow">Coming up</p>
+            <h2 data-i18n="upNextTitle">The next few days</h2>
+          </div>
+          <a href="#plan" class="link-arrow" data-i18n="seeFullPlan">See full plan →</a>
+        </div>
+        <div class="upnext" id="upNext"></div>
+
+        <div class="section-head reveal">
+          <div>
+            <p class="eyebrow pp-eyebrow" data-i18n="ppEyebrow">For new mothers</p>
+            <h2 data-i18n="ppTeaserTitle">Post-Partum Care</h2>
+          </div>
+          <a href="#postpartum" class="link-arrow" data-i18n="ppSeeAll">Explore all dishes →</a>
+        </div>
+        <div class="card-grid pp-teaser" id="ppTeaser"></div>
+      </div>
+    </section>
+
+    <!-- ============ VIEW: PLAN ============ -->
+    <section class="view" id="view-plan" data-view="plan" hidden>
+      <div class="page-hero container">
+        <nav class="plan-tabs" aria-label="Daily plan views"><a href="#today" class="plan-tab" data-tab="today" data-i18n="tabToday">Today</a><a href="#plan" class="plan-tab" data-tab="plan" data-i18n="tabCalendar">54-day calendar</a></nav>
+        <p class="eyebrow reveal" data-i18n="planEyebrow">The Calendar</p>
+        <h1 class="page-title reveal" data-i18n="planTitle">Your Meal Plan</h1>
+        <p class="page-sub reveal" id="planSub"></p>
+        <div class="toolbar reveal">
+          <div class="search">
+            <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+            <input type="search" id="searchInput" data-i18n-placeholder="searchPh" placeholder="Search dishes or ingredients…" />
+          </div>
+          <div class="chips" id="cuisineChips"></div>
+        </div>
+      </div>
+      <div class="week-jump-wrap">
+        <nav class="container week-jump" id="weekJump" aria-label="Jump to week"></nav>
+      </div>
+      <div class="container">
+        <div class="calendar" id="calendar"></div>
+        <p class="empty" id="emptyState" hidden data-i18n="noResults">No dishes match your search.</p>
+      </div>
+    </section>
+
+    <!-- ============ VIEW: SNACKS ============ -->
+    <section class="view" id="view-snacks" data-view="snacks" hidden>
+      <div class="page-hero container">
+        <p class="eyebrow reveal" data-i18n="snacksEyebrow">Ready in 15 minutes or less</p>
+        <h1 class="page-title reveal" data-i18n="snacksTitle">Evening Snacks</h1>
+        <p class="page-sub reveal" data-i18n="snacksSub">Quick, light bites for tea-time, all onion- and garlic-free.</p>
+      </div>
+      <div class="container">
+        <div class="card-grid" id="snackGrid"></div>
+      </div>
+    </section>
+    <!-- ============ VIEW: POST-PARTUM ============ -->
+    <section class="view" id="view-postpartum" data-view="postpartum" hidden>
+      <div class="page-hero container pp-hero">
+        <div class="pp-hero-bg" aria-hidden="true"><span></span><span></span></div>
+        <p class="eyebrow pp-eyebrow reveal" data-i18n="ppEyebrow">For new mothers</p>
+        <h1 class="page-title reveal" data-i18n="ppTitle">Post-Partum Care</h1>
+        <p class="page-sub reveal" id="ppIntro"></p>
+        <ul class="pp-promise reveal" id="ppPromise"></ul>
+        <div class="pp-jumps reveal" id="ppJumps"></div>
+      </div>
+      <div class="container">
+        <aside class="pp-note reveal" role="note">
+          <span class="pp-note-icon" aria-hidden="true">♡</span>
+          <div><b data-i18n="ppNoteTitle">A gentle note</b><p id="ppDisclaimer"></p></div>
+        </aside>
+        <div class="chips pp-chips reveal" id="ppChips"></div>
+        <div id="ppList"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p class="brand-text" data-i18n="brand">Sattvic Kitchen</p>
+      <p><span data-i18n="footerNote"></span> <span data-i18n="footerPhotos"></span></p>
+    </div>
+  </footer>
+
+  <!-- ============ RECIPE MODAL ============ -->
+  <div class="modal" id="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close></div>
+    <article class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" data-close aria-label="Close">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="modal-content" id="modalContent"></div>
+    </article>
+  </div>
+
+  <!-- ============ PDF DIALOG ============ -->
+  <div class="modal pdf-modal" id="pdfModal" aria-hidden="true">
+    <div class="modal-backdrop" data-pdf-close></div>
+    <div class="modal-panel pdf-panel" role="dialog" aria-modal="true" aria-labelledby="pdfTitle">
+      <button class="modal-close" data-pdf-close aria-label="Close">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <form class="pdf-form" id="pdfForm"></form>
+    </div>
+  </div>
+
+  <!-- ============ GLOBAL SEARCH ============ -->
+  <div class="modal search-modal" id="searchModal" aria-hidden="true">
+    <div class="modal-backdrop" data-search-close></div>
+    <div class="modal-panel search-panel" role="dialog" aria-modal="true" aria-label="Search">
+      <div class="gs-bar">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input type="search" id="gsInput" autocomplete="off" spellcheck="false">
+        <button class="gs-esc" data-search-close>Esc</button>
+      </div>
+      <div class="gs-filters" id="gsFilters"></div>
+      <div class="gs-results" id="gsResults"></div>
+      <p class="gs-hint" data-i18n="gsHint"></p>
+    </div>
+  </div>
+
+  <!-- ============ DAY PICKER ============ -->
+  <div class="modal day-modal" id="dayModal" aria-hidden="true">
+    <div class="modal-backdrop" data-day-close></div>
+    <div class="modal-panel day-panel" role="dialog" aria-modal="true" aria-labelledby="dayPickerTitle">
+      <button class="modal-close" data-day-close aria-label="Close">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="day-body" id="dayPickerBody"></div>
+    </div>
+  </div>
+
+  <!-- Print-only document, filled when a PDF is generated -->
+  <div id="printRoot"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script><script>window.onerror=(m,s,l)=>{document.title="ERR "+m+" @"+l}; setTimeout(()=>{const q=new URLSearchParams(location.search); if(q.get("open")) document.querySelector(`[data-id="${q.get("open")}"]`).click(); if(q.get("sy")) window.scrollTo(0,+q.get("sy")); if(q.get("drawer")) document.getElementById("exFilterToggle").click(); if(q.get("pdf")) SattvicKitchen.preparePrint(JSON.parse(q.get("pdf")));},900)</script>
+</body>
+</html>

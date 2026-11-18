@@ -1,0 +1,4889 @@
+{
+ "ajwain": {
+  "food": "ifct:ajwain",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "allspice berries": {
+  "food": "usda:171315",
+  "g": {
+   "count": 0.2
+  },
+  "note": "whole berry ~0.2 g; ground allspice nutrients"
+ },
+ "almonds": {
+  "food": "usda:170567",
+  "g": {
+   "tbsp": 8,
+   "count": 1.2,
+   "cup": 135
+  },
+  "note": "chopped"
+ },
+ "amchur powder": {
+  "food": "ifct:amchur",
+  "g": {
+   "tsp": 2.5,
+   "tbsp": 7
+  }
+ },
+ "anardana powder": {
+  "food": "ifct:anardana",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "apple": {
+  "food": "usda:171688",
+  "g": {
+   "small": 130
+  },
+  "note": "grated with skin"
+ },
+ "apples": {
+  "food": "usda:171689",
+  "g": {
+   "count": 160,
+   "medium": 160
+  },
+  "note": "peeled; medium apple edible ~160 g"
+ },
+ "arborio rice": {
+  "food": "usda:169760",
+  "g": {
+   "cup": 200
+  },
+  "note": "USDA lacks arborio; medium-grain raw"
+ },
+ "arhar dal": {
+  "food": "usda:172436",
+  "g": {
+   "cup": 200
+  },
+  "note": "raw toor dal"
+ },
+ "asafoetida": {
+  "food": "ifct:hing",
+  "g": {
+   "pinch": 0.2,
+   "pinches": 0.2
+  }
+ },
+ "avocado": {
+  "food": "usda:171705",
+  "g": {
+   "count": 150
+  },
+  "note": "edible flesh of one avocado"
+ },
+ "baby corn": {
+  "food": "ifct:baby-corn",
+  "g": {
+   "count": 8,
+   "cup": 80
+  }
+ },
+ "baby potatoes": {
+  "food": "usda:170026",
+  "g": {
+   "count": 35
+  }
+ },
+ "baby potatoes (cooked)": {
+  "food": "usda:170438",
+  "g": {
+   "g": 1
+  },
+  "note": "boiled in skin, peeled"
+ },
+ "bajra flour": {
+  "food": "ifct:bajra-flour",
+  "g": {
+   "cups": 120
+  }
+ },
+ "baking soda": {
+  "food": "usda:175040",
+  "g": {
+   "tsp": 4.6,
+   "pinch": 0.4
+  }
+ },
+ "basmati rice": {
+  "food": "usda:169756",
+  "g": {
+   "cup": 185,
+   "cups": 185
+  },
+  "note": "raw long-grain (soaked measured raw)"
+ },
+ "basmati rice (cooked)": {
+  "food": "usda:169757",
+  "g": {
+   "cup": 158
+  }
+ },
+ "bathua": {
+  "food": "usda:169244",
+  "g": {
+   "g": 1
+  },
+  "note": "lambsquarters raw"
+ },
+ "bay leaf": {
+  "food": "usda:170917",
+  "g": {
+   "count": 0.2
+  }
+ },
+ "bay leaves": {
+  "food": "usda:170917",
+  "g": {
+   "count": 0.2
+  }
+ },
+ "bean sprouts": {
+  "food": "usda:169957",
+  "g": {
+   "cup": 104
+  }
+ },
+ "beetroots": {
+  "food": "usda:169145",
+  "g": {
+   "medium": 130
+  }
+ },
+ "bell peppers": {
+  "mix": [
+   [
+    "usda:170108",
+    0.34
+   ],
+   [
+    "usda:169383",
+    0.33
+   ],
+   [
+    "usda:170427",
+    0.33
+   ]
+  ],
+  "g": {
+   "count": 150
+  },
+  "note": "mixed red/yellow/green"
+ },
+ "besan": {
+  "food": "usda:174288",
+  "g": {
+   "tbsp": 6,
+   "cup": 92,
+   "tsp": 2
+  }
+ },
+ "besan + 2 tbsp atta": {
+  "mix": [
+   [
+    "usda:174288",
+    0.86
+   ],
+   [
+    "usda:168893",
+    0.14
+   ]
+  ],
+  "g": {
+   "cup": 107
+  },
+  "note": "92 g besan + 15 g atta"
+ },
+ "bharta brinjals": {
+  "food": "usda:169228",
+  "g": {
+   "large": 400
+  }
+ },
+ "bhindi": {
+  "food": "usda:169260",
+  "g": {
+   "g": 1
+  }
+ },
+ "biryani masala": {
+  "food": "ifct:biryani-masala",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "bisi bele bath powder": {
+  "food": "ifct:bisi-bele-bath-powder",
+  "g": {
+   "tbsp": 7
+  }
+ },
+ "bitter gourd": {
+  "food": "usda:168393",
+  "g": {
+   "small": 70
+  }
+ },
+ "black beans": {
+  "food": "usda:173734",
+  "g": {
+   "cup": 194
+  },
+  "note": "measured dry before overnight soak -> raw"
+ },
+ "black cardamom": {
+  "food": "usda:170919",
+  "g": {
+   "count": 3
+  },
+  "note": "green cardamom nutrients; pod ~3 g"
+ },
+ "black olives": {
+  "food": "usda:169094",
+  "g": {
+   "count": 4
+  }
+ },
+ "black pepper": {
+  "food": "usda:170931",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "black pepper powder": {
+  "food": "usda:170931",
+  "g": {
+   "pinch": 0.2,
+   "tsp": 2.3
+  }
+ },
+ "black peppercorns": {
+  "food": "usda:170931",
+  "g": {
+   "tsp": 2.9
+  }
+ },
+ "boiled chickpeas": {
+  "food": "usda:173757",
+  "g": {
+   "cup": 164
+  }
+ },
+ "boiled kabuli chana": {
+  "food": "usda:173757",
+  "g": {
+   "cup": 164
+  }
+ },
+ "bok choy or pak choi": {
+  "food": "usda:170390",
+  "g": {
+   "cup": 70
+  }
+ },
+ "bread": {
+  "food": "usda:174924",
+  "g": {
+   "slices": 27
+  }
+ },
+ "breadcrumbs": {
+  "food": "usda:174928",
+  "g": {
+   "cup": 108,
+   "tbsp": 7
+  }
+ },
+ "brinjal": {
+  "food": "usda:169228",
+  "g": {
+   "long": 80,
+   "small": 60,
+   "large": 350,
+   "medium": 150
+  }
+ },
+ "brinjals": {
+  "food": "usda:169228",
+  "g": {
+   "large": 400
+  }
+ },
+ "broccoli": {
+  "mix": [
+   [
+    "usda:170379",
+    0.34
+   ],
+   [
+    "usda:170393",
+    0.33
+   ],
+   [
+    "usda:169291",
+    0.33
+   ]
+  ],
+  "g": {
+   "cups": 110
+  },
+  "note": "broccoli, carrot & zucchini mix"
+ },
+ "broccoli florets": {
+  "food": "usda:170379",
+  "g": {
+   "cup": 80
+  }
+ },
+ "broken wheat": {
+  "food": "ifct:dalia",
+  "g": {
+   "cup": 160
+  }
+ },
+ "bulgur or quinoa (cooked)": {
+  "food": "usda:170287",
+  "g": {
+   "cup": 182
+  }
+ },
+ "burger buns": {
+  "food": "usda:172796",
+  "g": {
+   "count": 50
+  }
+ },
+ "butter": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14.2
+  }
+ },
+ "butter & chopped parsley": {
+  "mix": [
+   [
+    "usda:173410",
+    0.85
+   ],
+   [
+    "usda:170416",
+    0.15
+   ]
+  ],
+  "g": {
+   "tbsp": 13
+  }
+ },
+ "butter naan": {
+  "mix": [
+   [
+    "usda:171845",
+    0.94
+   ],
+   [
+    "usda:173410",
+    0.06
+   ]
+  ],
+  "g": {
+   "count": 95
+  },
+  "note": "plain naan 90 g + ~5 g butter"
+ },
+ "butter or ghee": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14.2
+  }
+ },
+ "butter or sunflower oil": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14.2
+  }
+ },
+ "cabbage": {
+  "food": "usda:169975",
+  "g": {
+   "cups": 70,
+   "cup": 70
+  }
+ },
+ "capsicum": {
+  "food": "usda:170427",
+  "g": {
+   "count": 120,
+   "cup": 92,
+   "medium": 120,
+   "large": 164
+  },
+  "note": "green capsicum"
+ },
+ "caraway seeds": {
+  "food": "usda:170918",
+  "g": {
+   "tsp": 2.1
+  }
+ },
+ "cardamom powder": {
+  "food": "usda:170919",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "carrot": {
+  "food": "usda:170393",
+  "g": {
+   "small": 50,
+   "count": 80,
+   "medium": 80,
+   "tbsp": 7,
+   "cup": 128,
+   "large": 100
+  }
+ },
+ "carrots": {
+  "food": "usda:170393",
+  "g": {
+   "medium": 80,
+   "count": 80
+  }
+ },
+ "cashews": {
+  "food": "usda:170162",
+  "g": {
+   "count": 1.5,
+   "tbsp": 9,
+   "cup": 137
+  }
+ },
+ "cauliflower florets": {
+  "food": "usda:169986",
+  "g": {
+   "cup": 100,
+   "cups": 100
+  }
+ },
+ "cayenne or red chilli powder": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "celery": {
+  "food": "usda:169988",
+  "g": {
+   "stalk": 40,
+   "stalks": 40
+  }
+ },
+ "chaat masala": {
+  "food": "ifct:chaat-masala",
+  "g": {
+   "tsp": 2.5
+  },
+  "note": "contains black salt"
+ },
+ "chana dal": {
+  "food": "usda:173756",
+  "g": {
+   "tsp": 4,
+   "cup": 200
+  },
+  "note": "raw split bengal gram; USDA chickpeas raw"
+ },
+ "cheddar or processed cheese": {
+  "food": "usda:171290",
+  "g": {
+   "g": 1
+  },
+  "note": "Amul-style processed cheese"
+ },
+ "cherry tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "cup": 149,
+   "count": 15
+  }
+ },
+ "chimichurri: parsley": {
+  "mix": [
+   [
+    "usda:170416",
+    0.6
+   ],
+   [
+    "usda:171413",
+    0.27
+   ],
+   [
+    "usda:167747",
+    0.13
+   ]
+  ],
+  "g": {
+   "cup": 100
+  },
+  "note": "1 cup parsley 60 g + 2 tbsp olive oil 27 g + lemon juice ~13 g"
+ },
+ "chole masala": {
+  "food": "ifct:chole-masala",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "cinnamon powder": {
+  "food": "usda:171320",
+  "g": {
+   "tsp": 2.6
+  }
+ },
+ "cinnamon stick": {
+  "food": "usda:171320",
+  "g": {
+   "inch": 0.8
+  }
+ },
+ "cloves": {
+  "food": "usda:171321",
+  "g": {
+   "count": 0.1,
+   "tsp": 2.1
+  }
+ },
+ "coarse sooji or makki atta": {
+  "food": "usda:168933",
+  "g": {
+   "cup": 170
+  }
+ },
+ "coarse whole wheat flour": {
+  "food": "usda:168893",
+  "g": {
+   "cups": 130
+  }
+ },
+ "coconut milk": {
+  "food": "usda:170173",
+  "g": {
+   "ml": 1,
+   "cup": 230
+  }
+ },
+ "coconut oil": {
+  "food": "usda:171412",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "coconut water": {
+  "food": "usda:170174",
+  "g": {
+   "cup": 240
+  }
+ },
+ "cold butter": {
+  "food": "usda:173410",
+  "g": {
+   "g": 1
+  }
+ },
+ "collard greens": {
+  "food": "usda:170406",
+  "g": {
+   "cups": 36
+  }
+ },
+ "cooked kidney beans": {
+  "food": "usda:175194",
+  "g": {
+   "cup": 177
+  }
+ },
+ "cooked rice": {
+  "food": "usda:169757",
+  "g": {
+   "cups": 158,
+   "cup": 158
+  }
+ },
+ "coriander & cumin seeds": {
+  "mix": [
+   [
+    "usda:170922",
+    0.5
+   ],
+   [
+    "usda:170923",
+    0.5
+   ]
+  ],
+  "g": {
+   "tsp": 2
+  }
+ },
+ "coriander powder": {
+  "food": "usda:170922",
+  "g": {
+   "tsp": 2,
+   "tbsp": 5,
+   "cup": 80
+  }
+ },
+ "coriander seeds": {
+  "food": "usda:170922",
+  "g": {
+   "tsp": 1.8,
+   "tbsp": 5
+  }
+ },
+ "cornflour": {
+  "food": "usda:169698",
+  "g": {
+   "tbsp": 8,
+   "tsp": 2.7,
+   "cup": 128
+  }
+ },
+ "couscous": {
+  "food": "usda:169699",
+  "g": {
+   "cup": 173
+  },
+  "note": "dry"
+ },
+ "crusty bread": {
+  "food": "usda:172675",
+  "g": {
+   "loaf": 400
+  }
+ },
+ "cucumber": {
+  "food": "usda:168409",
+  "g": {
+   "count": 200,
+   "small": 120,
+   "medium": 200
+  }
+ },
+ "cucumbers": {
+  "food": "usda:168409",
+  "g": {
+   "count": 200
+  }
+ },
+ "cumin powder": {
+  "food": "usda:170923",
+  "g": {
+   "tsp": 2.1
+  }
+ },
+ "cumin seeds": {
+  "food": "usda:170923",
+  "g": {
+   "tsp": 2.1
+  }
+ },
+ "curd": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245,
+   "tbsp": 15
+  }
+ },
+ "curry leaves": {
+  "food": "ifct:curry-leaves",
+  "g": {
+   "count": 0.1,
+   "sprigs": 1
+  }
+ },
+ "curry powder": {
+  "food": "usda:170924",
+  "g": {
+   "tbsp": 6.3,
+   "tsp": 2
+  }
+ },
+ "desiccated coconut": {
+  "food": "usda:170170",
+  "g": {
+   "tbsp": 5,
+   "cup": 80
+  }
+ },
+ "dill": {
+  "food": "usda:172233",
+  "g": {
+   "cup": 9
+  }
+ },
+ "dosa batter": {
+  "food": "ifct:dosa-batter",
+  "g": {
+   "cups": 250
+  }
+ },
+ "dried amla": {
+  "food": "ifct:amla-dried",
+  "g": {
+   "pieces": 2
+  }
+ },
+ "dried apricots": {
+  "food": "usda:173941",
+  "g": {
+   "count": 7
+  }
+ },
+ "dried ker berries": {
+  "food": "ifct:ker-dried",
+  "g": {
+   "cup": 80
+  }
+ },
+ "dried kumat seeds": {
+  "food": "ifct:kumat-dried",
+  "g": {
+   "count": 0.3
+  }
+ },
+ "dried mint": {
+  "food": "usda:172239",
+  "g": {
+   "tsp": 0.5
+  }
+ },
+ "dried oregano": {
+  "food": "usda:171328",
+  "g": {
+   "tsp": 1
+  }
+ },
+ "dried oregano & basil": {
+  "mix": [
+   [
+    "usda:171328",
+    0.5
+   ],
+   [
+    "usda:171317",
+    0.5
+   ]
+  ],
+  "g": {
+   "tsp": 0.85
+  }
+ },
+ "dried oregano or dill": {
+  "food": "usda:171328",
+  "g": {
+   "tsp": 1
+  }
+ },
+ "dried rosemary or thyme": {
+  "food": "usda:171333",
+  "g": {
+   "tsp": 1.2
+  }
+ },
+ "dried sage": {
+  "food": "usda:170935",
+  "g": {
+   "tsp": 0.7
+  }
+ },
+ "dried sage or thyme": {
+  "food": "usda:170935",
+  "g": {
+   "tsp": 0.7
+  }
+ },
+ "dried sangri": {
+  "food": "ifct:sangri-dried",
+  "g": {
+   "cup": 50
+  },
+  "note": "Dried ker-sangri pods are light; ~50 g/cup"
+ },
+ "dried thyme": {
+  "food": "usda:170938",
+  "g": {
+   "tsp": 1,
+   "tbsp": 2.7
+  }
+ },
+ "dried thyme or oregano": {
+  "food": "usda:170938",
+  "g": {
+   "tsp": 1
+  }
+ },
+ "drumstick": {
+  "food": "usda:170483",
+  "g": {
+   "count": 60
+  },
+  "note": "USDA has drumstick pods raw; one Indian drumstick ~60 g"
+ },
+ "drumsticks": {
+  "food": "usda:170483",
+  "g": {
+   "count": 60
+  },
+  "note": "USDA drumstick pods raw; ~60 g each"
+ },
+ "dry coconut": {
+  "food": "usda:170170",
+  "g": {
+   "cup": 75
+  },
+  "note": "Grated dry copra ~75 g/cup; desiccated unsweetened"
+ },
+ "dry ginger powder": {
+  "food": "usda:170926",
+  "g": {
+   "tsp": 1.8
+  }
+ },
+ "dry kashmiri red chillies": {
+  "food": "usda:168570",
+  "g": {
+   "count": 1
+  },
+  "note": "Kashmiri chillies larger, ~1 g dried"
+ },
+ "dry red chilli": {
+  "food": "usda:168570",
+  "g": {
+   "count": 0.6
+  }
+ },
+ "dry red chillies": {
+  "food": "usda:168570",
+  "g": {
+   "count": 0.6
+  }
+ },
+ "edamame or green peas (cooked)": {
+  "food": "usda:168411",
+  "g": {
+   "cup": 155
+  }
+ },
+ "extra-virgin olive oil": {
+  "food": "usda:171413",
+  "g": {
+   "tbsp": 13.5,
+   "cup": 216
+  }
+ },
+ "fennel powder": {
+  "food": "usda:171323",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "fennel seeds": {
+  "food": "usda:171323",
+  "g": {
+   "tsp": 2,
+   "tbsp": 5.8
+  }
+ },
+ "fenugreek & fennel seeds": {
+  "mix": [
+   [
+    "usda:171324",
+    0.5
+   ],
+   [
+    "usda:171323",
+    0.5
+   ]
+  ],
+  "g": {
+   "tsp": 2.8
+  }
+ },
+ "fenugreek seeds": {
+  "food": "usda:171324",
+  "g": {
+   "tsp": 3.7
+  }
+ },
+ "filo or puff pastry sheets": {
+  "food": "usda:172791",
+  "g": {
+   "sheets": 19
+  },
+  "note": "Mapped to filo (A); 1 sheet ~19 g"
+ },
+ "firm tofu": {
+  "food": "usda:172475",
+  "g": {
+   "g": 1
+  }
+ },
+ "firm tofu or paneer": {
+  "food": "usda:172475",
+  "g": {
+   "g": 1
+  }
+ },
+ "firm tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "count": 120
+  }
+ },
+ "flat rice noodles": {
+  "food": "usda:169742",
+  "g": {
+   "g": 1
+  },
+  "note": "Assumed dry weight"
+ },
+ "flat wheat noodles": {
+  "food": "usda:169736",
+  "g": {
+   "g": 1
+  },
+  "note": "Egg-free wheat noodles ~ dry pasta"
+ },
+ "flaxseed": {
+  "food": "usda:169414",
+  "g": {
+   "tbsp": 7
+  },
+  "note": "Ground flaxseed 7 g/tbsp"
+ },
+ "floury potatoes (cooked)": {
+  "food": "usda:170438",
+  "g": {
+   "g": 1
+  }
+ },
+ "french beans": {
+  "food": "usda:169961",
+  "g": {
+   "cup": 100,
+   "cups": 100,
+   "count": 5.5,
+   "pieces": 5.5
+  }
+ },
+ "fresh basil": {
+  "food": "usda:172232",
+  "g": {
+   "leaves": 0.5
+  }
+ },
+ "fresh basil leaves": {
+  "food": "usda:172232",
+  "g": {
+   "cups": 30
+  },
+  "note": "Packed"
+ },
+ "fresh coconut": {
+  "food": "usda:170169",
+  "g": {
+   "cup": 80,
+   "tbsp": 5
+  }
+ },
+ "fresh coriander": {
+  "food": "usda:169997",
+  "g": {
+   "cup": 16,
+   "tbsp": 1
+  }
+ },
+ "fresh coriander & lemon juice": {
+  "mix": [
+   [
+    "usda:169997",
+    0.06
+   ],
+   [
+    "usda:167747",
+    0.94
+   ]
+  ],
+  "g": {
+   "tbsp": 8
+  },
+  "note": "Assumes ~half coriander, half lemon juice by volume"
+ },
+ "fresh coriander & parsley": {
+  "mix": [
+   [
+    "usda:169997",
+    0.5
+   ],
+   [
+    "usda:170416",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 30
+  }
+ },
+ "fresh coriander with stems": {
+  "food": "usda:169997",
+  "g": {
+   "cup": 30
+  },
+  "note": "Packed with stems for paste"
+ },
+ "fresh cream": {
+  "food": "usda:170858",
+  "g": {
+   "cup": 239,
+   "tbsp": 15
+  },
+  "note": "Indian fresh cream ~25% fat; light whipping cream (31%) closest"
+ },
+ "fresh curd": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245
+  }
+ },
+ "fresh dill": {
+  "food": "usda:172233",
+  "g": {
+   "cup": 20,
+   "tbsp": 1.2
+  },
+  "note": "Chopped suva ~20 g/cup"
+ },
+ "fresh dill and coriander": {
+  "mix": [
+   [
+    "usda:172233",
+    0.5
+   ],
+   [
+    "usda:169997",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 18
+  }
+ },
+ "fresh grated coconut": {
+  "food": "usda:170169",
+  "g": {
+   "cup": 80,
+   "tbsp": 5
+  }
+ },
+ "fresh methi": {
+  "food": "ifct:methi-leaves",
+  "g": {
+   "cup": 30
+  }
+ },
+ "fresh methi leaves": {
+  "food": "ifct:methi-leaves",
+  "g": {
+   "cup": 30,
+   "bunches": 90
+  }
+ },
+ "fresh mint leaves": {
+  "food": "usda:173475",
+  "g": {
+   "cup": 20
+  }
+ },
+ "fresh moringa leaves": {
+  "food": "usda:168416",
+  "g": {
+   "cup": 21
+  }
+ },
+ "fresh suva leaves": {
+  "food": "usda:172233",
+  "g": {
+   "tbsp": 1.2
+  }
+ },
+ "fried noodles or papdi": {
+  "food": "usda:169735",
+  "g": {
+   "cup": 45
+  },
+  "note": "Crunchy fried noodles (A)"
+ },
+ "full-cream milk": {
+  "mix": [
+   [
+    "usda:171265",
+    0.916
+   ],
+   [
+    "usda:170859",
+    0.084
+   ]
+  ],
+  "g": {
+   "cup": 245,
+   "litre": 1030
+  },
+  "note": "Indian full-cream milk ~6% fat: whole milk + 8.4% heavy cream"
+ },
+ "garam masala": {
+  "food": "ifct:garam-masala",
+  "g": {
+   "tsp": 2.2
+  }
+ },
+ "ghee": {
+  "food": "usda:173412",
+  "g": {
+   "tbsp": 12.8,
+   "cup": 205,
+   "tsp": 4.3
+  },
+  "note": "Butter oil anhydrous = ghee, fuller nutrient data than 171314"
+ },
+ "ghee or butter": {
+  "food": "usda:173412",
+  "g": {
+   "tbsp": 12.8
+  }
+ },
+ "ghee or coconut oil": {
+  "food": "usda:173412",
+  "g": {
+   "tbsp": 12.8
+  }
+ },
+ "ghee or oil": {
+  "food": "usda:173412",
+  "g": {
+   "tbsp": 12.8
+  },
+  "asNeeded": 15
+ },
+ "ginger": {
+  "food": "usda:169231",
+  "g": {
+   "inch": 6,
+   "slices": 2,
+   "tsp": 2.5
+  }
+ },
+ "ginger paste": {
+  "food": "usda:169231",
+  "g": {
+   "tbsp": 15,
+   "tsp": 5
+  }
+ },
+ "ginger–green chilli paste": {
+  "mix": [
+   [
+    "usda:169231",
+    0.6
+   ],
+   [
+    "usda:170497",
+    0.4
+   ]
+  ],
+  "g": {
+   "tsp": 5,
+   "tbsp": 15
+  }
+ },
+ "gobindobhog or other short-grain rice": {
+  "food": "usda:168931",
+  "g": {
+   "cup": 200
+  },
+  "note": "Raw"
+ },
+ "gond": {
+  "food": "ifct:gond",
+  "g": {
+   "cup": 140
+  }
+ },
+ "grated coconut": {
+  "food": "usda:170169",
+  "g": {
+   "cup": 80
+  },
+  "note": "Fresh (A)"
+ },
+ "grated mozzarella": {
+  "food": "usda:171244",
+  "g": {
+   "cup": 113
+  }
+ },
+ "grated vegetarian cheese": {
+  "food": "usda:170853",
+  "g": {
+   "tbsp": 7,
+   "cup": 113
+  },
+  "note": "Amul/Go processed cheese ~ pasteurized process American"
+ },
+ "grated vegetarian cheese or paneer": {
+  "food": "usda:170853",
+  "g": {
+   "cup": 113
+  }
+ },
+ "grated vegetarian hard cheese": {
+  "food": "usda:170848",
+  "g": {
+   "cup": 90
+  }
+ },
+ "grated vegetarian parmesan-style cheese": {
+  "food": "usda:170848",
+  "g": {
+   "cup": 90
+  },
+  "note": "Freshly grated hard parmesan"
+ },
+ "green capsicum": {
+  "food": "usda:170427",
+  "g": {
+   "count": 120,
+   "medium": 120
+  }
+ },
+ "green capsicums": {
+  "food": "usda:170427",
+  "g": {
+   "large": 164
+  }
+ },
+ "green cardamom": {
+  "food": "usda:170919",
+  "g": {
+   "count": 0.2,
+   "pieces": 0.2
+  }
+ },
+ "green chilli": {
+  "food": "usda:170497",
+  "g": {
+   "count": 4,
+   "tsp": 3
+  }
+ },
+ "green chilli or jalapeño": {
+  "food": "usda:170497",
+  "g": {
+   "count": 4
+  }
+ },
+ "green chillies": {
+  "food": "usda:170497",
+  "g": {
+   "count": 4
+  }
+ },
+ "green or red chillies": {
+  "food": "usda:170497",
+  "g": {
+   "count": 4
+  }
+ },
+ "green peas": {
+  "food": "usda:170419",
+  "g": {
+   "cup": 145
+  }
+ },
+ "ground allspice": {
+  "food": "usda:171315",
+  "g": {
+   "tsp": 1.9
+  }
+ },
+ "ground coriander": {
+  "food": "usda:170922",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "ground cumin": {
+  "food": "usda:170923",
+  "g": {
+   "tsp": 2.1
+  }
+ },
+ "groundnut oil": {
+  "food": "usda:171410",
+  "g": {
+   "tbsp": 13.5
+  }
+ },
+ "hakka noodles": {
+  "food": "usda:169736",
+  "g": {
+   "g": 1
+  },
+  "note": "Egg-free wheat noodles, dry ~ dry pasta"
+ },
+ "halim seeds": {
+  "food": "ifct:halim-seeds",
+  "g": {
+   "tbsp": 10
+  }
+ },
+ "homemade chilli oil": {
+  "mix": [
+   [
+    "usda:172370",
+    0.85
+   ],
+   [
+    "usda:170932",
+    0.15
+   ]
+  ],
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "hot vegetable stock": {
+  "food": "usda:171583",
+  "g": {
+   "cups": 240
+  }
+ },
+ "hot water": {
+  "food": "none",
+  "g": {
+   "cups": 240
+  }
+ },
+ "hung curd": {
+  "food": "usda:171304",
+  "g": {
+   "cup": 250,
+   "tbsp": 16
+  },
+  "note": "Hung curd ~ whole-milk Greek yogurt"
+ },
+ "hung curd with chopped herbs": {
+  "food": "usda:171304",
+  "g": {
+   "cup": 250
+  }
+ },
+ "ice-cold water": {
+  "food": "none",
+  "g": {
+   "cup": 240,
+   "tbsp": 15
+  }
+ },
+ "instant dry yeast": {
+  "food": "usda:175043",
+  "g": {
+   "tsp": 3.1
+  }
+ },
+ "italian herbs or oregano + thyme": {
+  "mix": [
+   [
+    "usda:171328",
+    0.4
+   ],
+   [
+    "usda:171317",
+    0.3
+   ],
+   [
+    "usda:170938",
+    0.3
+   ]
+  ],
+  "g": {
+   "tsp": 1
+  }
+ },
+ "jaggery": {
+  "food": "ifct:jaggery",
+  "g": {
+   "tsp": 5,
+   "tbsp": 15,
+   "cup": 200
+  }
+ },
+ "jaggery and 1 tsp amchur": {
+  "mix": [
+   [
+    "ifct:jaggery",
+    0.86
+   ],
+   [
+    "ifct:amchur",
+    0.14
+   ]
+  ],
+  "g": {
+   "tbsp": 17.5
+  },
+  "note": "Per tbsp of jaggery plus 1 tsp amchur (~2.5 g)"
+ },
+ "jaggery or brown sugar": {
+  "food": "ifct:jaggery",
+  "g": {
+   "tsp": 5,
+   "tbsp": 15
+  }
+ },
+ "jaggery or honey": {
+  "food": "ifct:jaggery",
+  "g": {
+   "tbsp": 15
+  }
+ },
+ "jaggery powder": {
+  "food": "ifct:jaggery",
+  "g": {
+   "tbsp": 12,
+   "tsp": 4
+  }
+ },
+ "jasmine or sona masoori rice (cooked)": {
+  "food": "usda:168878",
+  "g": {
+   "cups": 158
+  }
+ },
+ "jasmine rice": {
+  "food": "usda:168877",
+  "g": {
+   "cup": 185
+  },
+  "note": "Raw long-grain"
+ },
+ "jowar flour": {
+  "food": "usda:168943",
+  "g": {
+   "cups": 121
+  },
+  "note": "USDA whole-grain sorghum flour used for jowar"
+ },
+ "kabuli chana": {
+  "food": "usda:173756",
+  "g": {
+   "cup": 200
+  },
+  "note": "Cup taken as dry measure before soaking"
+ },
+ "kabuli chana (cooked)": {
+  "food": "usda:173757",
+  "g": {
+   "cups": 164
+  }
+ },
+ "kaffir lime leaves": {
+  "food": "none",
+  "g": {
+   "count": 0.5
+  },
+  "note": "Aromatic, negligible"
+ },
+ "kalonji": {
+  "food": "ifct:kalonji",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "kashmiri chilli powder": {
+  "food": "usda:170932",
+  "g": {
+   "tbsp": 7.5
+  },
+  "note": "Red chilli powder ~2.5 g/tsp"
+ },
+ "kashmiri red chilli powder": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "kasuri methi": {
+  "food": "ifct:kasuri-methi",
+  "g": {
+   "tsp": 0.7
+  }
+ },
+ "kerala matta rice": {
+  "food": "usda:169703",
+  "g": {
+   "cups": 190
+  },
+  "note": "Matta is parboiled red rice; brown rice raw as proxy"
+ },
+ "kerala matta rice or any rice (cooked)": {
+  "food": "usda:169704",
+  "g": {
+   "cups": 175
+  },
+  "note": "Cooked brown rice proxy"
+ },
+ "lauki": {
+  "food": "usda:169232",
+  "g": {
+   "cups": 116,
+   "cup": 116
+  },
+  "note": "USDA white-flowered gourd (calabash) = lauki, raw cubed"
+ },
+ "large tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "count": 180
+  }
+ },
+ "lasagne sheets": {
+  "food": "usda:169736",
+  "g": {
+   "count": 20
+  },
+  "note": "Dry sheet ~20 g"
+ },
+ "lemon": {
+  "food": "usda:167747",
+  "g": {
+   "count": 30
+  }
+ },
+ "lemon juice": {
+  "food": "usda:167747",
+  "g": {
+   "tsp": 5,
+   "tbsp": 15
+  }
+ },
+ "lemongrass": {
+  "food": "usda:168573",
+  "g": {
+   "stalks": 15,
+   "stalk": 15
+  }
+ },
+ "lemons": {
+  "food": "usda:167747",
+  "g": {
+   "count": 30
+  },
+  "note": "Wedges: counted as juice squeezed"
+ },
+ "lettuce": {
+  "food": "usda:169248",
+  "g": {
+   "cup": 57,
+   "leaves": 10
+  },
+  "note": "Plain lettuce; example line also lists cucumber/tomato"
+ },
+ "lettuce & cucumber": {
+  "mix": [
+   [
+    "usda:169248",
+    0.5
+   ],
+   [
+    "usda:168409",
+    0.5
+   ]
+  ],
+  "g": {
+   "cups": 80
+  }
+ },
+ "lettuce leaves": {
+  "food": "usda:169248",
+  "g": {
+   "count": 10
+  }
+ },
+ "lettuce or baby spinach": {
+  "food": "usda:169249",
+  "g": {
+   "cup": 30
+  },
+  "note": "lettuce (A); loose leaves ~30 g/cup"
+ },
+ "lettuce or cabbage": {
+  "food": "usda:169248",
+  "g": {
+   "cup": 72
+  },
+  "note": "iceberg lettuce, shredded"
+ },
+ "lime": {
+  "food": "usda:168156",
+  "g": {
+   "count": 30
+  },
+  "note": "juice of 1 lime"
+ },
+ "limes": {
+  "food": "usda:168156",
+  "g": {
+   "count": 30
+  },
+  "note": "juice of 1 lime"
+ },
+ "lobia (cooked)": {
+  "food": "usda:173759",
+  "g": {
+   "cup": 171
+  }
+ },
+ "long-grain rice": {
+  "food": "usda:168877",
+  "g": {
+   "cup": 185
+  },
+  "note": "raw"
+ },
+ "lotus stem": {
+  "food": "usda:169250",
+  "g": {
+   "g": 1
+  }
+ },
+ "macaroni": {
+  "food": "usda:169736",
+  "g": {
+   "g": 1
+  },
+  "note": "dry pasta"
+ },
+ "maida": {
+  "food": "usda:168894",
+  "g": {
+   "tbsp": 7.8,
+   "cup": 125,
+   "cups": 125
+  }
+ },
+ "maida or atta": {
+  "food": "usda:168894",
+  "g": {
+   "cups": 125
+  }
+ },
+ "maida or half atta–half maida": {
+  "food": "usda:168894",
+  "g": {
+   "cups": 125
+  }
+ },
+ "maida or rice flour": {
+  "food": "usda:168894",
+  "g": {
+   "tbsp": 7.8
+  }
+ },
+ "makhana": {
+  "food": "ifct:makhana",
+  "g": {
+   "cups": 14
+  },
+  "note": "popped fox nuts are very light, ~14 g/cup"
+ },
+ "makki atta": {
+  "food": "usda:170290",
+  "g": {
+   "tbsp": 7.3,
+   "cups": 117
+  }
+ },
+ "mango or lemon pickle": {
+  "food": "ifct:mango-pickle",
+  "g": {
+   "tbsp": 15
+  }
+ },
+ "melon seeds": {
+  "food": "usda:169407",
+  "g": {
+   "tbsp": 7
+  },
+  "note": "magaz ~ dried watermelon seed kernels"
+ },
+ "melted butter": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14,
+   "cup": 227
+  }
+ },
+ "melted butter or olive oil": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "methi seeds": {
+  "food": "usda:171324",
+  "g": {
+   "tsp": 3.7
+  }
+ },
+ "milk": {
+  "food": "usda:171265",
+  "g": {
+   "cups": 244,
+   "cup": 244,
+   "tbsp": 15
+  }
+ },
+ "mint & coriander leaves": {
+  "mix": [
+   [
+    "usda:173475",
+    0.5
+   ],
+   [
+    "usda:169997",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 20
+  }
+ },
+ "mint & sweet basil": {
+  "mix": [
+   [
+    "usda:173475",
+    0.5
+   ],
+   [
+    "usda:172232",
+    0.5
+   ]
+  ],
+  "g": {
+   "leaves": 0.2
+  }
+ },
+ "mixed dal": {
+  "mix": [
+   [
+    "usda:174256",
+    0.5
+   ],
+   [
+    "usda:172436",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 200
+  },
+  "note": "raw dal"
+ },
+ "mixed dals": {
+  "mix": [
+   [
+    "usda:172436",
+    0.25
+   ],
+   [
+    "usda:173756",
+    0.25
+   ],
+   [
+    "usda:174256",
+    0.25
+   ],
+   [
+    "usda:174259",
+    0.25
+   ]
+  ],
+  "g": {
+   "cup": 200
+  },
+  "note": "raw dals: toor, chana, moong, urad"
+ },
+ "mixed dry fruits": {
+  "mix": [
+   [
+    "usda:170567",
+    0.3
+   ],
+   [
+    "usda:170162",
+    0.3
+   ],
+   [
+    "usda:168165",
+    0.2
+   ],
+   [
+    "usda:170187",
+    0.2
+   ]
+  ],
+  "g": {
+   "cup": 140
+  }
+ },
+ "mixed vegetables": {
+  "mix": [
+   [
+    "usda:170393",
+    0.2
+   ],
+   [
+    "usda:169961",
+    0.2
+   ],
+   [
+    "usda:169986",
+    0.2
+   ],
+   [
+    "usda:170419",
+    0.2
+   ],
+   [
+    "usda:170026",
+    0.2
+   ]
+  ],
+  "g": {
+   "cups": 130
+  },
+  "note": "raw chopped mixed veg"
+ },
+ "moong bean sprouts": {
+  "food": "usda:169957",
+  "g": {
+   "cup": 104
+  }
+ },
+ "moong dal mangodi": {
+  "food": "ifct:mangodi",
+  "g": {
+   "cup": 90
+  }
+ },
+ "moong papad": {
+  "food": "usda:168106",
+  "g": {
+   "count": 12
+  },
+  "note": "USDA 'Papad' entry"
+ },
+ "moong sprouts": {
+  "food": "usda:169957",
+  "g": {
+   "cup": 104
+  }
+ },
+ "mozzarella": {
+  "food": "usda:171244",
+  "g": {
+   "g": 1
+  },
+  "note": "low-moisture part-skim (Amul-type)"
+ },
+ "mozzarella or paneer": {
+  "food": "usda:171244",
+  "g": {
+   "g": 1
+  }
+ },
+ "mustard oil": {
+  "food": "usda:172337",
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "mustard oil or ghee": {
+  "food": "usda:172337",
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "mustard or groundnut oil": {
+  "food": "usda:172337",
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "mustard powder": {
+  "food": "usda:170929",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "mustard seeds": {
+  "food": "usda:170929",
+  "g": {
+   "tsp": 3.3,
+   "tbsp": 10
+  },
+  "note": "USDA only has ground mustard seed; whole seeds weigh more per tsp"
+ },
+ "neutral oil": {
+  "food": "usda:171025",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "nori": {
+  "food": "usda:168458",
+  "g": {
+   "sheet": 2.6
+  },
+  "note": "USDA laver is fresh-weight (35 kcal/100g); dried nori is denser in nutrients but quantities negligible"
+ },
+ "nori flakes": {
+  "food": "usda:168458",
+  "g": {
+   "tbsp": 1.5
+  },
+  "note": "see nori"
+ },
+ "nutmeg": {
+  "food": "usda:171326",
+  "g": {
+   "pinch": 0.3,
+   "tsp": 2.2
+  }
+ },
+ "nutmeg powder": {
+  "food": "usda:171326",
+  "g": {
+   "tsp": 2.2,
+   "pinch": 0.3
+  }
+ },
+ "oil": {
+  "food": "usda:171025",
+  "g": {
+   "tbsp": 13.6,
+   "cup": 218
+  },
+  "asNeeded": 20,
+  "note": "generic oil = sunflower"
+ },
+ "oil for frying": {
+  "food": "usda:171025",
+  "g": {},
+  "asNeeded": 25,
+  "note": "oil absorbed when deep-frying"
+ },
+ "oil or butter": {
+  "food": "usda:171025",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "oil or ghee": {
+  "food": "usda:171025",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "oil or melted butter": {
+  "food": "usda:171025",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "olive oil": {
+  "food": "usda:171413",
+  "g": {
+   "tbsp": 13.5
+  }
+ },
+ "olive oil or ghee": {
+  "food": "usda:171413",
+  "g": {
+   "tbsp": 13.5
+  }
+ },
+ "oranges": {
+  "food": "usda:169097",
+  "g": {
+   "count": 131
+  }
+ },
+ "panch phoron": {
+  "mix": [
+   [
+    "usda:170923",
+    0.4
+   ],
+   [
+    "usda:171323",
+    0.2
+   ],
+   [
+    "usda:170929",
+    0.2
+   ],
+   [
+    "usda:171324",
+    0.2
+   ]
+  ],
+  "g": {
+   "tsp": 2.8
+  },
+  "note": "equal cumin, fennel, mustard, fenugreek; nigella approximated by cumin"
+ },
+ "paneer": {
+  "food": "ifct:paneer",
+  "g": {
+   "g": 1,
+   "cup": 130
+  }
+ },
+ "paneer or firm tofu": {
+  "food": "ifct:paneer",
+  "g": {
+   "g": 1
+  }
+ },
+ "papad": {
+  "food": "usda:168106",
+  "g": {
+   "count": 12
+  }
+ },
+ "paprika or kashmiri chilli": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "parsley": {
+  "food": "usda:170416",
+  "g": {
+   "tbsp": 3.8
+  }
+ },
+ "parsley or coriander": {
+  "food": "usda:170416",
+  "g": {
+   "tbsp": 3.8,
+   "cup": 60
+  }
+ },
+ "parsley or mint": {
+  "food": "usda:170416",
+  "g": {
+   "cup": 60
+  }
+ },
+ "parwal": {
+  "food": "ifct:parwal",
+  "g": {
+   "count": 30
+  }
+ },
+ "pav bhaji masala": {
+  "food": "ifct:pav-bhaji-masala",
+  "g": {
+   "tbsp": 6
+  }
+ },
+ "pav buns": {
+  "food": "usda:172796",
+  "g": {
+   "count": 35
+  },
+  "note": "Indian pav ~35 g"
+ },
+ "peanut butter or ground roasted peanuts": {
+  "food": "usda:172470",
+  "g": {
+   "cup": 258
+  }
+ },
+ "peanut oil": {
+  "food": "usda:171410",
+  "g": {
+   "tbsp": 13.5
+  }
+ },
+ "peanuts": {
+  "food": "usda:172430",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "penne pasta": {
+  "food": "usda:169736",
+  "g": {
+   "g": 1
+  },
+  "note": "dry"
+ },
+ "pine nuts or chopped cashews": {
+  "food": "usda:170591",
+  "g": {
+   "tbsp": 8.5
+  }
+ },
+ "pineapple": {
+  "food": "usda:169124",
+  "g": {
+   "cup": 165
+  }
+ },
+ "pistachios": {
+  "food": "usda:170184",
+  "g": {
+   "tbsp": 7,
+   "tsp": 2.5
+  }
+ },
+ "pita or roti": {
+  "food": "usda:174915",
+  "g": {
+   "count": 50
+  },
+  "note": "between large and small pita / one roti"
+ },
+ "polenta or coarse makki ka atta": {
+  "food": "usda:171670",
+  "g": {
+   "cup": 156
+  },
+  "note": "dry corn grits"
+ },
+ "pomegranate arils": {
+  "food": "usda:169134",
+  "g": {
+   "cup": 174,
+   "tbsp": 11
+  }
+ },
+ "poppy seeds": {
+  "food": "usda:171330",
+  "g": {
+   "tsp": 2.8,
+   "tbsp": 8.8
+  }
+ },
+ "potato": {
+  "food": "usda:170026",
+  "g": {
+   "count": 150,
+   "medium": 150
+  }
+ },
+ "potato (cooked)": {
+  "food": "usda:170440",
+  "g": {
+   "medium": 140
+  },
+  "note": "boiled, peeled"
+ },
+ "potatoes": {
+  "food": "usda:170026",
+  "g": {
+   "medium": 150,
+   "large": 250,
+   "count": 150,
+   "g": 1
+  }
+ },
+ "potatoes (cooked)": {
+  "food": "usda:170440",
+  "g": {
+   "medium": 140
+  }
+ },
+ "powdered jaggery or bura sugar": {
+  "food": "ifct:jaggery",
+  "g": {
+   "cup": 150
+  },
+  "note": "jaggery (A), powdered ~150 g/cup"
+ },
+ "pre-cooked white cornmeal": {
+  "food": "usda:169695",
+  "g": {
+   "cups": 120
+  },
+  "note": "masarepa = precooked degermed corn flour; USDA degermed corn flour used"
+ },
+ "pumpkin seeds": {
+  "food": "usda:170557",
+  "g": {
+   "tbsp": 7.4,
+   "tsp": 2.5
+  }
+ },
+ "purple or green cabbage": {
+  "food": "usda:169977",
+  "g": {
+   "cup": 70
+  }
+ },
+ "purple yam": {
+  "food": "usda:170071",
+  "g": {
+   "g": 1
+  },
+  "note": "ratalu = Dioscorea yam"
+ },
+ "quinoa": {
+  "food": "usda:168874",
+  "g": {
+   "cup": 170
+  },
+  "note": "raw"
+ },
+ "radish": {
+  "food": "usda:168451",
+  "g": {
+   "small": 100,
+   "count": 200
+  },
+  "note": "mooli/daikon"
+ },
+ "ragi flour": {
+  "food": "ifct:ragi-flour",
+  "g": {
+   "cup": 120,
+   "tbsp": 7.5
+  }
+ },
+ "raisins": {
+  "food": "usda:168165",
+  "g": {
+   "tbsp": 9,
+   "cup": 145
+  }
+ },
+ "raisins & almonds": {
+  "mix": [
+   [
+    "usda:168165",
+    0.5
+   ],
+   [
+    "usda:170567",
+    0.5
+   ]
+  ],
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "raisins & chopped cashews": {
+  "mix": [
+   [
+    "usda:168165",
+    0.5
+   ],
+   [
+    "usda:170162",
+    0.5
+   ]
+  ],
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "rajma (cooked)": {
+  "food": "usda:175194",
+  "g": {
+   "cup": 177
+  },
+  "note": "soaked+pressure-cooked cup ~ cooked kidney beans"
+ },
+ "raw banana": {
+  "food": "ifct:raw-banana",
+  "g": {
+   "count": 130
+  },
+  "note": "peeled green cooking banana; USDA green plantain (152 kcal) is much drier"
+ },
+ "raw jackfruit": {
+  "food": "ifct:raw-jackfruit",
+  "g": {
+   "g": 1
+  },
+  "note": "USDA jackfruit is ripe (95 kcal); tender/raw is ~50"
+ },
+ "raw papaya or lauki": {
+  "food": "ifct:raw-papaya",
+  "g": {
+   "cup": 145
+  }
+ },
+ "raw peanuts": {
+  "food": "usda:172430",
+  "g": {
+   "tbsp": 9,
+   "cup": 146
+  }
+ },
+ "raw rice": {
+  "food": "usda:168877",
+  "g": {
+   "cup": 185,
+   "cups": 185
+  }
+ },
+ "red bell pepper": {
+  "food": "usda:170108",
+  "g": {
+   "count": 120,
+   "medium": 120
+  }
+ },
+ "red capsicum": {
+  "food": "usda:170108",
+  "g": {
+   "count": 120,
+   "medium": 120
+  }
+ },
+ "red chilli flakes": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 1.8
+  }
+ },
+ "red chilli powder": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  },
+  "note": "Indian chilli powder = pure ground chilli (cayenne), not US chili blend"
+ },
+ "red chilli sauce": {
+  "food": "usda:171186",
+  "g": {
+   "tsp": 6
+  },
+  "note": "sriracha-type proxy"
+ },
+ "red chillies": {
+  "food": "usda:170932",
+  "g": {
+   "count": 1.2
+  },
+  "note": "dried red chilli ~1.2 g each"
+ },
+ "red cowpeas": {
+  "food": "usda:173758",
+  "g": {
+   "cup": 167
+  },
+  "note": "soaked, measured dry -> raw"
+ },
+ "red or yellow bell pepper": {
+  "food": "usda:170108",
+  "g": {
+   "count": 120,
+   "medium": 120
+  }
+ },
+ "rice": {
+  "food": "usda:168877",
+  "g": {
+   "cup": 185
+  },
+  "note": "assumed raw"
+ },
+ "rice (cooked)": {
+  "food": "usda:168878",
+  "g": {
+   "cups": 158,
+   "cup": 158
+  }
+ },
+ "rice flour": {
+  "food": "usda:169714",
+  "g": {
+   "cup": 158,
+   "tbsp": 10
+  }
+ },
+ "rice papads": {
+  "mix": [
+   [
+    "usda:173161",
+    0.8
+   ],
+   [
+    "usda:171025",
+    0.2
+   ]
+  ],
+  "g": {
+   "count": 10
+  },
+  "note": "rice cracker proxy + ~20% oil from frying"
+ },
+ "ripe avocado": {
+  "food": "usda:171705",
+  "g": {
+   "count": 150
+  },
+  "note": "edible flesh of one Hass-size avocado"
+ },
+ "ripe avocados": {
+  "food": "usda:171705",
+  "g": {
+   "count": 150
+  }
+ },
+ "ripe tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "large": 180,
+   "medium": 120,
+   "count": 120
+  }
+ },
+ "roasted chana": {
+  "food": "ifct:roasted-chana",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "roasted cumin & chilli powder": {
+  "mix": [
+   [
+    "usda:170923",
+    0.6
+   ],
+   [
+    "usda:170932",
+    0.4
+   ]
+  ],
+  "g": {
+   "tsp": 2.2
+  },
+  "note": "bhaja masala: roasted cumin + red chilli (cayenne used, USDA 'chili powder' is a garlic blend)"
+ },
+ "roasted cumin powder": {
+  "food": "usda:170923",
+  "g": {
+   "tsp": 2.1
+  }
+ },
+ "roasted curry powder": {
+  "food": "usda:170924",
+  "g": {
+   "tbsp": 6.3
+  }
+ },
+ "roasted peanuts": {
+  "food": "usda:173806",
+  "g": {
+   "cup": 146,
+   "tbsp": 9
+  }
+ },
+ "rock salt": {
+  "food": "usda:173468",
+  "g": {},
+  "note": "sendha namak -> table salt"
+ },
+ "rolled oats": {
+  "food": "usda:173904",
+  "g": {
+   "cup": 81
+  }
+ },
+ "rye or multigrain bread": {
+  "food": "usda:172684",
+  "g": {
+   "slices": 32
+  }
+ },
+ "saffron": {
+  "food": "usda:170934",
+  "g": {
+   "pinch": 0.05,
+   "tsp": 0.7,
+   "big pinch": 0.1
+  },
+  "note": "pinch of saffron ~15-20 strands ~0.05 g"
+ },
+ "saffron strands": {
+  "food": "usda:170934",
+  "g": {
+   "count": 0.002
+  }
+ },
+ "salt": {
+  "food": "usda:173468",
+  "g": {
+   "tsp": 6,
+   "tbsp": 18,
+   "pinch": 0.4
+  }
+ },
+ "salt & a pinch of sugar": {
+  "food": "usda:173468",
+  "g": {},
+  "note": "sugar pinch negligible"
+ },
+ "salt & black pepper": {
+  "food": "usda:173468",
+  "g": {}
+ },
+ "salt & chaat masala": {
+  "food": "usda:173468",
+  "g": {},
+  "note": "chaat masala to taste negligible; mostly salt"
+ },
+ "salt & red chilli powder": {
+  "food": "usda:173468",
+  "g": {}
+ },
+ "salt & white pepper": {
+  "food": "usda:173468",
+  "g": {}
+ },
+ "salted crackers": {
+  "food": "usda:172746",
+  "g": {
+   "count": 4
+  },
+  "note": "Monaco ~4 g each"
+ },
+ "sambar powder": {
+  "food": "ifct:sambar-powder",
+  "g": {
+   "tbsp": 6
+  }
+ },
+ "sarson": {
+  "food": "usda:169256",
+  "g": {
+   "g": 1
+  }
+ },
+ "saunf": {
+  "food": "usda:171323",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "sesame oil": {
+  "food": "usda:171016",
+  "g": {
+   "tbsp": 13.6,
+   "tsp": 4.5
+  }
+ },
+ "sesame or peanut oil": {
+  "food": "usda:171016",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "sesame seeds": {
+  "food": "usda:170150",
+  "g": {
+   "tsp": 3
+  }
+ },
+ "short-grain rice": {
+  "food": "usda:168931",
+  "g": {
+   "cup": 200,
+   "cups": 200
+  }
+ },
+ "short-grain rice (cooked)": {
+  "food": "usda:168932",
+  "g": {
+   "cups": 186
+  }
+ },
+ "sichuan pepper or black pepper": {
+  "food": "usda:170931",
+  "g": {
+   "tsp": 2.3
+  },
+  "note": "no USDA Sichuan pepper; black pepper as proxy (tsp quantities)"
+ },
+ "small brinjals": {
+  "food": "usda:169228",
+  "g": {
+   "count": 40
+  },
+  "note": "small Indian brinjal ~40 g"
+ },
+ "small corn or wheat tortillas": {
+  "food": "usda:175036",
+  "g": {
+   "count": 25
+  }
+ },
+ "small pasta": {
+  "food": "usda:168927",
+  "g": {
+   "cup": 120
+  },
+  "note": "dry macaroni/elbows"
+ },
+ "smoked paprika": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "smoked paprika or kashmiri chilli": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "soft baguettes or pav buns": {
+  "food": "usda:172675",
+  "g": {
+   "count": 120
+  },
+  "note": "soft mini baguette ~120 g; a pav is ~40 g - review if recipe means pav"
+ },
+ "soft dates": {
+  "food": "usda:171726",
+  "g": {
+   "count": 8,
+   "cup": 147
+  }
+ },
+ "sooji": {
+  "food": "usda:168933",
+  "g": {
+   "tbsp": 10.5,
+   "cup": 167
+  }
+ },
+ "sour curd": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245
+  }
+ },
+ "soy sauce": {
+  "food": "usda:174277",
+  "g": {
+   "tbsp": 16,
+   "tsp": 5.3
+  }
+ },
+ "spaghetti": {
+  "food": "usda:168927",
+  "g": {
+   "g": 1
+  },
+  "note": "dry pasta"
+ },
+ "spinach": {
+  "food": "usda:168462",
+  "g": {
+   "cup": 30,
+   "cups": 30,
+   "g": 1,
+   "leaves": 3
+  }
+ },
+ "spinach leaves": {
+  "food": "usda:168462",
+  "g": {
+   "cups": 30
+  }
+ },
+ "spinach or methi": {
+  "food": "usda:168462",
+  "g": {
+   "cup": 30
+  }
+ },
+ "spinach or poi saag": {
+  "food": "usda:168462",
+  "g": {
+   "cup": 30
+  }
+ },
+ "split green moong dal": {
+  "food": "usda:174256",
+  "g": {
+   "cup": 200
+  },
+  "note": "soaked, measured raw"
+ },
+ "star anise": {
+  "food": "usda:171316",
+  "g": {
+   "count": 0.5
+  },
+  "note": "no USDA star anise; anise seed proxy, ~0.5 g per star"
+ },
+ "steamed rice (cooked)": {
+  "food": "usda:169757",
+  "g": {
+   "cups": 160
+  }
+ },
+ "sugar": {
+  "food": "usda:169655",
+  "g": {
+   "tsp": 4.2,
+   "cup": 200,
+   "tbsp": 12.5
+  }
+ },
+ "sugar & ½ tsp instant yeast": {
+  "mix": [
+   [
+    "usda:169655",
+    0.68
+   ],
+   [
+    "usda:175043",
+    0.32
+   ]
+  ],
+  "g": {
+   "tsp": 6.2
+  },
+  "note": "1 tsp sugar 4.2 g + 1/2 tsp yeast 2 g per unit"
+ },
+ "sugar or honey": {
+  "food": "usda:169655",
+  "g": {
+   "tsp": 4.2
+  }
+ },
+ "sugar or jaggery": {
+  "food": "usda:169655",
+  "g": {
+   "tbsp": 12.6
+  }
+ },
+ "sumac": {
+  "food": "ifct:amchur",
+  "g": {
+   "tsp": 2.5
+  },
+  "note": "no USDA sumac; mapped to stated alternative amchur (similar tart dry powder)"
+ },
+ "sumac or amchur": {
+  "food": "ifct:amchur",
+  "g": {
+   "tsp": 2.5
+  },
+  "note": "no USDA sumac; amchur used"
+ },
+ "surti papdi or flat beans": {
+  "food": "usda:169234",
+  "g": {
+   "cups": 80
+  },
+  "note": "hyacinth/lablab bean pods (papdi)"
+ },
+ "sushi or sona masoori rice": {
+  "food": "usda:168931",
+  "g": {
+   "cup": 200
+  },
+  "note": "measured raw"
+ },
+ "sweet basil": {
+  "food": "usda:172232",
+  "g": {
+   "leaves": 0.5
+  }
+ },
+ "sweet corn kernels": {
+  "food": "usda:169998",
+  "g": {
+   "cup": 150,
+   "cups": 150
+  }
+ },
+ "sweet paprika or kashmiri chilli": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "sweet paprika or kashmiri chilli powder": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "sweet potato": {
+  "food": "usda:168482",
+  "g": {
+   "large": 250,
+   "small": 100
+  }
+ },
+ "sweet potato glass noodles or rice vermicelli": {
+  "food": "usda:174258",
+  "g": {
+   "g": 1
+  },
+  "note": "dry starch noodles (USDA mung-bean cellophane, nutritionally ~same)"
+ },
+ "sweet potatoes (cooked)": {
+  "food": "usda:168484",
+  "g": {
+   "medium": 151
+  }
+ },
+ "tahini": {
+  "food": "usda:170189",
+  "g": {
+   "cup": 240,
+   "tbsp": 15
+  }
+ },
+ "tamarind": {
+  "food": "usda:167763",
+  "g": {
+   "lemon-sized": 20,
+   "small": 12
+  },
+  "note": "dry tamarind pulp block; lemon-sized ball ~20 g"
+ },
+ "tamarind paste": {
+  "food": "usda:167763",
+  "g": {
+   "tbsp": 15
+  }
+ },
+ "tamarind pulp": {
+  "food": "usda:167763",
+  "g": {
+   "tbsp": 8
+  },
+  "note": "homemade extract diluted with water; ~8 g tamarind-equivalent per tbsp"
+ },
+ "thecha: green chillies & roasted peanuts": {
+  "mix": [
+   [
+    "usda:170497",
+    0.7
+   ],
+   [
+    "usda:173806",
+    0.3
+   ]
+  ],
+  "g": {
+   "cup": 130
+  },
+  "note": "crushed, mostly chillies"
+ },
+ "thick curd": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245,
+   "cups": 245,
+   "tbsp": 16
+  }
+ },
+ "timur": {
+  "food": "usda:170931",
+  "g": {
+   "tsp": 2
+  },
+  "note": "Nepali Sichuan pepper; black pepper proxy"
+ },
+ "toasted sesame oil": {
+  "food": "usda:171016",
+  "g": {
+   "tbsp": 13.6
+  }
+ },
+ "toasted sesame seeds": {
+  "food": "usda:170151",
+  "g": {
+   "tbsp": 9,
+   "tsp": 3
+  }
+ },
+ "tofu or paneer": {
+  "food": "usda:172475",
+  "g": {
+   "g": 1
+  }
+ },
+ "tomato": {
+  "food": "usda:170457",
+  "g": {
+   "count": 120,
+   "medium": 120,
+   "small": 80
+  }
+ },
+ "tomato ketchup": {
+  "food": "usda:168556",
+  "g": {
+   "tbsp": 17
+  }
+ },
+ "tomato passata": {
+  "food": "usda:170460",
+  "g": {
+   "g": 1
+  },
+  "note": "canned tomato puree"
+ },
+ "tomato purée": {
+  "food": "usda:170460",
+  "g": {
+   "cup": 250,
+   "tbsp": 16
+  },
+  "note": "canned puree (38 kcal/100g); homemade fresh purée would be ~half"
+ },
+ "tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "medium": 120,
+   "count": 120,
+   "large": 180
+  }
+ },
+ "toor dal": {
+  "food": "usda:172436",
+  "g": {
+   "cup": 200
+  }
+ },
+ "tori": {
+  "food": "ifct:tori",
+  "g": {
+   "cups": 100
+  },
+  "note": "ridge gourd, peeled & cubed ~100 g/cup"
+ },
+ "turmeric powder": {
+  "food": "usda:172231",
+  "g": {
+   "tsp": 3
+  }
+ },
+ "udon noodles": {
+  "food": "usda:169728",
+  "g": {
+   "g": 1
+  },
+  "note": "frozen/fresh udon is precooked; fresh pasta cooked as proxy (~130 kcal/100g)"
+ },
+ "unsliced white sandwich loaf": {
+  "food": "usda:174924",
+  "g": {
+   "large": 450
+  }
+ },
+ "urad dal": {
+  "food": "usda:174259",
+  "g": {
+   "tsp": 4,
+   "tbsp": 12.5,
+   "cup": 200
+  }
+ },
+ "vegetable stock or water": {
+  "food": "usda:171583",
+  "g": {
+   "cups": 240
+  }
+ },
+ "vegetables in batons": {
+  "mix": [
+   [
+    "usda:168215",
+    0.2
+   ],
+   [
+    "usda:170071",
+    0.2
+   ],
+   [
+    "usda:170483",
+    0.15
+   ],
+   [
+    "usda:170393",
+    0.15
+   ],
+   [
+    "usda:169961",
+    0.15
+   ],
+   [
+    "usda:170069",
+    0.15
+   ]
+  ],
+  "g": {
+   "cups": 120
+  },
+  "note": "avial mix: raw banana, yam, drumstick, carrot, beans, ash gourd"
+ },
+ "vegetarian cheese": {
+  "food": "usda:171290",
+  "g": {
+   "slices": 20
+  },
+  "note": "processed cheese slice (Amul ~20 g)"
+ },
+ "vegetarian feta": {
+  "food": "usda:173420",
+  "g": {
+   "g": 1
+  }
+ },
+ "warm milk": {
+  "food": "usda:171265",
+  "g": {
+   "cup": 244,
+   "cups": 244
+  }
+ },
+ "warm water": {
+  "food": "none",
+  "g": {
+   "cup": 240,
+   "cups": 240
+  },
+  "asNeeded": 0
+ },
+ "water": {
+  "food": "none",
+  "g": {
+   "cup": 240,
+   "cups": 240
+  },
+  "asNeeded": 0
+ },
+ "water or vegetable stock": {
+  "food": "none",
+  "g": {
+   "cups": 240
+  }
+ },
+ "wheat or maize tortillas": {
+  "food": "usda:175037",
+  "g": {
+   "count": 40
+  }
+ },
+ "white butter": {
+  "food": "usda:173430",
+  "g": {
+   "tbsp": 14.2
+  },
+  "note": "makkhan, unsalted"
+ },
+ "white maize flour or makki ka atta": {
+  "food": "usda:169750",
+  "g": {
+   "cups": 125
+  }
+ },
+ "white poppy seeds": {
+  "food": "usda:171330",
+  "g": {
+   "tbsp": 8.8
+  }
+ },
+ "white sesame": {
+  "food": "usda:170151",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "white sesame seeds": {
+  "food": "usda:170151",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "whole green chilli": {
+  "food": "usda:170497",
+  "g": {
+   "count": 4
+  }
+ },
+ "whole green moong (cooked)": {
+  "food": "usda:174257",
+  "g": {
+   "cup": 190
+  }
+ },
+ "whole green moong or brown chana (cooked)": {
+  "food": "usda:174257",
+  "g": {
+   "cup": 190
+  }
+ },
+ "whole spices": {
+  "mix": [
+   [
+    "usda:171320",
+    0.4
+   ],
+   [
+    "usda:171321",
+    0.3
+   ],
+   [
+    "usda:170919",
+    0.3
+   ]
+  ],
+  "g": {
+   "tsp": 2
+  }
+ },
+ "whole wheat bread": {
+  "food": "usda:172688",
+  "g": {
+   "slices": 28
+  }
+ },
+ "whole wheat flour": {
+  "food": "usda:168893",
+  "g": {
+   "cup": 120,
+   "cups": 120
+  }
+ },
+ "whole wheat tortillas": {
+  "food": "usda:174081",
+  "g": {
+   "count": 45
+  }
+ },
+ "whole wheat wraps or rotis": {
+  "food": "usda:174081",
+  "g": {
+   "count": 40
+  }
+ },
+ "yellow bell pepper": {
+  "food": "usda:169383",
+  "g": {
+   "count": 160
+  }
+ },
+ "yellow moong dal": {
+  "food": "usda:174256",
+  "g": {
+   "cup": 200
+  },
+  "note": "split hulled moong; USDA mung raw"
+ },
+ "yellow pumpkin": {
+  "food": "usda:168448",
+  "g": {
+   "cup": 116,
+   "cups": 116,
+   "g": 1
+  }
+ },
+ "zucchini": {
+  "food": "usda:169291",
+  "g": {
+   "count": 200,
+   "small": 120,
+   "cups": 113,
+   "medium": 200
+  }
+ },
+ "zucchini or cucumber": {
+  "food": "usda:169291",
+  "g": {
+   "count": 200
+  }
+ },
+ "zucchini or lauki": {
+  "food": "usda:169291",
+  "g": {
+   "count": 200,
+   "cup": 124,
+   "medium": 196
+  }
+ },
+ "fresh cream or malai": {
+  "food": "usda:170858",
+  "g": {
+   "tbsp": 15
+  },
+  "note": "Indian fresh cream ~25% fat; light whipping cream"
+ },
+ "thick yogurt": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245,
+   "cups": 245
+  }
+ },
+ "cauliflower": {
+  "food": "usda:169986",
+  "g": {
+   "medium": 450,
+   "large": 650,
+   "cup": 100,
+   "cups": 100
+  },
+  "note": "florets edible weight; Indian medium head ~450 g trimmed"
+ },
+ "amchur": {
+  "food": "ifct:amchur",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "whole cauliflower": {
+  "food": "usda:169986",
+  "g": {
+   "medium": 550
+  },
+  "note": "whole head incl. core, leaves trimmed"
+ },
+ "almond slivers and chopped coriander": {
+  "mix": [
+   [
+    "usda:170567",
+    0.87
+   ],
+   [
+    "usda:169997",
+    0.13
+   ]
+  ],
+  "g": {
+   "tbsp": 4
+  },
+  "note": "~1/2 tbsp slivers 3.4 g + 1/2 tbsp coriander 0.5 g"
+ },
+ "arbi": {
+  "food": "usda:169308",
+  "g": {
+   "g": 1
+  },
+  "note": "taro raw"
+ },
+ "karela": {
+  "food": "usda:168393",
+  "g": {
+   "medium": 100
+  }
+ },
+ "cotton thread": {
+  "food": "none",
+  "g": {},
+  "asNeeded": 0
+ },
+ "capsicums": {
+  "food": "usda:170427",
+  "g": {
+   "medium": 120
+  },
+  "note": "green capsicum"
+ },
+ "green peas (cooked)": {
+  "food": "usda:170420",
+  "g": {
+   "cup": 160
+  }
+ },
+ "yogurt": {
+  "food": "usda:171284",
+  "g": {
+   "cup": 245,
+   "cups": 245
+  }
+ },
+ "oil for deep-frying": {
+  "food": "usda:171025",
+  "g": {},
+  "asNeeded": 25,
+  "note": "oil absorbed when deep-frying"
+ },
+ "tinda": {
+  "food": "ifct:tinda",
+  "g": {
+   "g": 1
+  }
+ },
+ "rajma": {
+  "food": "usda:173744",
+  "g": {
+   "cup": 184
+  },
+  "note": "soaked, measured dry -> raw"
+ },
+ "pav bhaji masala or garam masala": {
+  "food": "ifct:pav-bhaji-masala",
+  "g": {
+   "tsp": 2.2
+  }
+ },
+ "whole black urad dal": {
+  "food": "usda:174259",
+  "g": {
+   "cup": 200
+  },
+  "note": "soaked, measured dry -> raw"
+ },
+ "moong dal": {
+  "food": "usda:174256",
+  "g": {
+   "tbsp": 13
+  }
+ },
+ "moth dal or whole moong": {
+  "food": "usda:172425",
+  "g": {
+   "tbsp": 12.5
+  }
+ },
+ "lobia": {
+  "food": "usda:173758",
+  "g": {
+   "cup": 167
+  },
+  "note": "soaked, measured dry -> raw"
+ },
+ "kala chana": {
+  "food": "usda:173756",
+  "g": {
+   "cup": 190
+  },
+  "note": "USDA chickpeas raw (bengal gram); soaked, measured dry"
+ },
+ "basmati or sona masoori rice": {
+  "food": "usda:169756",
+  "g": {
+   "cups": 185
+  },
+  "note": "raw long-grain (soaked measured raw)"
+ },
+ "ghee or mustard oil": {
+  "food": "usda:173412",
+  "g": {
+   "tbsp": 12.8
+  }
+ },
+ "green cardamoms": {
+  "food": "usda:170919",
+  "g": {
+   "count": 0.2
+  }
+ },
+ "fresh mint or coriander": {
+  "food": "usda:173475",
+  "g": {
+   "tbsp": 1.5
+  }
+ },
+ "whole bajra": {
+  "food": "ifct:bajra-flour",
+  "g": {
+   "cup": 190
+  },
+  "note": "whole pearl millet grain; IFCT bajra values (same as whole flour)"
+ },
+ "wheat flour or half atta": {
+  "food": "usda:168893",
+  "g": {
+   "cups": 120
+  }
+ },
+ "wheat flour": {
+  "food": "usda:168893",
+  "g": {
+   "cups": 120
+  },
+  "note": "atta"
+ },
+ "fresh mint": {
+  "food": "usda:173475",
+  "g": {
+   "tbsp": 1.5,
+   "leaves": 0.15,
+   "cup": 20
+  }
+ },
+ "anardana powder or amchur": {
+  "food": "ifct:anardana",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "chana sattu": {
+  "food": "ifct:roasted-chana",
+  "g": {
+   "cup": 100
+  },
+  "note": "sattu = roasted bengal gram flour"
+ },
+ "mango pickle masala": {
+  "mix": [
+   [
+    "usda:170929",
+    0.3
+   ],
+   [
+    "usda:171324",
+    0.2
+   ],
+   [
+    "usda:171323",
+    0.15
+   ],
+   [
+    "usda:170932",
+    0.15
+   ],
+   [
+    "usda:173468",
+    0.2
+   ]
+  ],
+  "g": {
+   "tbsp": 7
+  },
+  "note": "achar masala: mustard, methi, saunf, chilli, salt (est.)"
+ },
+ "cornflour or poha powder": {
+  "food": "usda:169698",
+  "g": {
+   "tbsp": 8
+  }
+ },
+ "sweet tamarind chutney": {
+  "food": "ifct:tamarind-chutney",
+  "g": {
+   "tbsp": 18,
+   "cup": 290
+  }
+ },
+ "green coriander-mint chutney": {
+  "mix": [
+   [
+    "usda:169997",
+    0.5
+   ],
+   [
+    "usda:173475",
+    0.3
+   ],
+   [
+    "usda:167747",
+    0.12
+   ],
+   [
+    "usda:170497",
+    0.06
+   ],
+   [
+    "usda:173468",
+    0.02
+   ]
+  ],
+  "g": {
+   "tbsp": 15
+  },
+  "note": "herb paste est.; water omitted"
+ },
+ "fine sev": {
+  "food": "ifct:sev",
+  "g": {
+   "cup": 50
+  },
+  "note": "fine nylon sev is airy ~50 g/cup"
+ },
+ "pomegranate seeds": {
+  "food": "usda:169134",
+  "g": {
+   "cup": 174
+  }
+ },
+ "powdered sugar": {
+  "food": "usda:169656",
+  "g": {
+   "tbsp": 8,
+   "cup": 120
+  }
+ },
+ "black salt": {
+  "food": "usda:173468",
+  "g": {
+   "tsp": 5
+  },
+  "toTaste": 3,
+  "note": "kala namak -> table salt"
+ },
+ "white radish": {
+  "food": "usda:168451",
+  "g": {
+   "medium": 200
+  }
+ },
+ "sabudana": {
+  "food": "usda:169717",
+  "g": {
+   "cup": 160
+  },
+  "note": "USDA tapioca pearl dry = sabudana (IFCT sago ~351 kcal, essentially identical)"
+ },
+ "roasted cashews or almonds": {
+  "food": "usda:170571",
+  "g": {
+   "cup": 125
+  },
+  "note": "coarsely crushed"
+ },
+ "singhara flour": {
+  "food": "ifct:singhara-flour",
+  "g": {
+   "tbsp": 8
+  }
+ },
+ "sendha namak": {
+  "food": "usda:173468",
+  "g": {},
+  "toTaste": 4,
+  "note": "rock salt -> table salt; key lacks 'salt' so toTaste per recipe used"
+ },
+ "coarse sooji": {
+  "food": "usda:168933",
+  "g": {
+   "cup": 170
+  }
+ },
+ "green cardamom powder": {
+  "food": "usda:170919",
+  "g": {
+   "tsp": 2,
+   "pinch": 0.3,
+   "pinches": 0.3
+  }
+ },
+ "banana": {
+  "food": "usda:173944",
+  "g": {
+   "small": 100
+  }
+ },
+ "khoya": {
+  "food": "ifct:khoya",
+  "g": {
+   "g": 1
+  }
+ },
+ "fresh paneer": {
+  "food": "ifct:paneer",
+  "g": {
+   "g": 1
+  }
+ },
+ "rose water": {
+  "food": "none",
+  "g": {
+   "tsp": 0,
+   "tbsp": 0
+  }
+ },
+ "full-cream cow's milk": {
+  "mix": [
+   [
+    "usda:171265",
+    0.916
+   ],
+   [
+    "usda:170859",
+    0.084
+   ]
+  ],
+  "g": {
+   "litre": 1030,
+   "litres": 1030
+  },
+  "note": "Indian full-cream milk ~6% fat"
+ },
+ "fine sooji": {
+  "food": "usda:168933",
+  "g": {
+   "tsp": 3.5,
+   "tbsp": 10.5
+  }
+ },
+ "green cardamom pods": {
+  "food": "usda:170919",
+  "g": {
+   "count": 0.2
+  }
+ },
+ "gobindobhog or basmati rice": {
+  "food": "usda:168931",
+  "g": {
+   "cup": 200
+  },
+  "note": "short-grain raw"
+ },
+ "powdered sugar or boora": {
+  "food": "usda:169656",
+  "g": {
+   "cup": 120
+  }
+ },
+ "red delhi carrots": {
+  "food": "usda:170393",
+  "g": {
+   "kg": 1000
+  }
+ },
+ "boora or powdered sugar": {
+  "food": "usda:169656",
+  "g": {
+   "cup": 120
+  }
+ },
+ "dried rose petals": {
+  "food": "none",
+  "g": {
+   "tsp": 0,
+   "tbsp": 0
+  },
+  "note": "negligible garnish (~0.5-1 g)"
+ },
+ "chironji": {
+  "food": "ifct:chironji",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "thick fresh curd": {
+  "food": "usda:171284",
+  "g": {
+   "cups": 245
+  }
+ },
+ "cold milk": {
+  "food": "usda:171265",
+  "g": {
+   "cup": 244
+  }
+ },
+ "rose syrup": {
+  "food": "ifct:rose-syrup",
+  "g": {
+   "tbsp": 20
+  }
+ },
+ "ice cubes": {
+  "food": "none",
+  "g": {
+   "count": 0
+  },
+  "asNeeded": 0
+ },
+ "full-cream milk (cooked)": {
+  "mix": [
+   [
+    "usda:171265",
+    0.916
+   ],
+   [
+    "usda:170859",
+    0.084
+   ]
+  ],
+  "g": {
+   "litre": 1030
+  },
+  "note": "Indian full-cream milk ~6% fat"
+ },
+ "raw green mangoes": {
+  "food": "ifct:raw-mango",
+  "g": {
+   "medium": 150
+  },
+  "note": "~200 g whole, ~150 g edible pulp+peel used"
+ },
+ "chilled water": {
+  "food": "none",
+  "g": {
+   "cups": 0
+  }
+ },
+ "grated fresh coconut": {
+  "food": "usda:170169",
+  "g": {
+   "tbsp": 5
+  }
+ },
+ "kuttu flour": {
+  "food": "usda:170687",
+  "g": {
+   "cups": 120
+  }
+ },
+ "samak": {
+  "food": "ifct:samak-rice",
+  "g": {
+   "cup": 190
+  },
+  "note": "raw barnyard millet"
+ },
+ "dry breadcrumbs": {
+  "food": "usda:174928",
+  "g": {
+   "tbsp": 7,
+   "cup": 108
+  }
+ },
+ "tomato paste": {
+  "food": "usda:170459",
+  "g": {
+   "tbsp": 16
+  }
+ },
+ "celery stalk": {
+  "food": "usda:169988",
+  "g": {
+   "count": 40
+  }
+ },
+ "oil for shallow frying": {
+  "food": "usda:171025",
+  "g": {},
+  "asNeeded": 20,
+  "note": "oil absorbed shallow frying"
+ },
+ "salt and crushed black pepper": {
+  "food": "usda:173468",
+  "g": {}
+ },
+ "sweetcorn kernels": {
+  "food": "usda:169998",
+  "g": {
+   "cup": 150
+  }
+ },
+ "fresh dill or parsley": {
+  "food": "usda:172233",
+  "g": {
+   "tbsp": 1.2
+  }
+ },
+ "digestive biscuits": {
+  "mix": [
+   [
+    "usda:174957",
+    0.5
+   ],
+   [
+    "usda:174967",
+    0.5
+   ]
+  ],
+  "g": {
+   "g": 1
+  },
+  "note": "no USDA digestive; graham+shortbread avg ~472 kcal, 18 g fat (digestive ~480/21)"
+ },
+ "cream cheese": {
+  "food": "usda:173418",
+  "g": {
+   "g": 1
+  }
+ },
+ "sweetened condensed milk": {
+  "food": "usda:171275",
+  "g": {
+   "g": 1,
+   "tbsp": 19
+  }
+ },
+ "lemon zest": {
+  "food": "usda:167749",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "vanilla essence": {
+  "food": "usda:172235",
+  "g": {
+   "tsp": 4.2
+  },
+  "note": "Indian vanilla essence is imitation"
+ },
+ "whole milk powder": {
+  "food": "usda:170876",
+  "g": {
+   "cups": 128
+  }
+ },
+ "unsalted butter": {
+  "food": "usda:173430",
+  "g": {
+   "g": 1
+  }
+ },
+ "dried kashmiri red chillies": {
+  "food": "usda:168570",
+  "g": {
+   "count": 1
+  }
+ },
+ "dried byadgi or regular red chilli": {
+  "food": "usda:168570",
+  "g": {
+   "count": 0.7
+  }
+ },
+ "vegetable stock": {
+  "food": "usda:171583",
+  "g": {
+   "cups": 240
+  }
+ },
+ "corn tortillas or makki ki roti": {
+  "food": "usda:175036",
+  "g": {
+   "count": 24
+  }
+ },
+ "carrot and green peas": {
+  "mix": [
+   [
+    "usda:170393",
+    0.5
+   ],
+   [
+    "usda:170419",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 140
+  }
+ },
+ "maida or bread flour": {
+  "food": "usda:168894",
+  "g": {
+   "cups": 125
+  }
+ },
+ "lukewarm water": {
+  "food": "none",
+  "g": {
+   "cups": 240,
+   "cup": 240
+  }
+ },
+ "fresh or dried rosemary": {
+  "food": "usda:173473",
+  "g": {
+   "tsp": 0.7
+  }
+ },
+ "flaky or coarse sea salt": {
+  "food": "usda:173468",
+  "g": {
+   "tsp": 3.5
+  },
+  "note": "flaky salt lighter than table salt"
+ },
+ "firm ripe tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "medium": 120
+  }
+ },
+ "fresh mozzarella or bocconcini": {
+  "food": "usda:170845",
+  "g": {
+   "g": 1
+  }
+ },
+ "dried italian herbs": {
+  "mix": [
+   [
+    "usda:171328",
+    0.4
+   ],
+   [
+    "usda:171317",
+    0.3
+   ],
+   [
+    "usda:170938",
+    0.3
+   ]
+  ],
+  "g": {
+   "tsp": 1
+  }
+ },
+ "chilli flakes": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 1.8
+  }
+ },
+ "salt and black pepper": {
+  "food": "usda:173468",
+  "g": {},
+  "toTaste": 0,
+  "note": "script applies salt to-taste rule"
+ },
+ "grated processed cheese": {
+  "food": "usda:170853",
+  "g": {
+   "cup": 113
+  }
+ },
+ "dry breadcrumbs or panko": {
+  "food": "usda:174928",
+  "g": {
+   "cups": 108
+  }
+ },
+ "oil for deep frying": {
+  "food": "usda:171025",
+  "g": {},
+  "asNeeded": 25
+ },
+ "tomato pasta sauce": {
+  "food": "usda:171192",
+  "g": {
+   "cup": 250
+  }
+ },
+ "agar-agar powder": {
+  "food": "usda:170090",
+  "g": {
+   "tsp": 2
+  }
+ },
+ "strawberries or frozen mixed berries": {
+  "food": "usda:167762",
+  "g": {
+   "cups": 150
+  }
+ },
+ "fresh parsley or coriander": {
+  "food": "usda:170416",
+  "g": {
+   "tbsp": 3.8
+  }
+ },
+ "fine bulgur": {
+  "food": "usda:170688",
+  "g": {
+   "cup": 140
+  },
+  "note": "dry, soaked in boiling water"
+ },
+ "boiling water": {
+  "food": "none",
+  "g": {
+   "cup": 240
+  }
+ },
+ "pita breads or day-old chapatis": {
+  "food": "usda:174915",
+  "g": {
+   "count": 60
+  }
+ },
+ "cashews and almonds": {
+  "mix": [
+   [
+    "usda:170162",
+    0.5
+   ],
+   [
+    "usda:170567",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 140
+  }
+ },
+ "basmati or short-grain rice": {
+  "food": "usda:169756",
+  "g": {
+   "cup": 185
+  },
+  "note": "raw, soaked"
+ },
+ "almond slivers": {
+  "food": "usda:170567",
+  "g": {
+   "tbsp": 6.8
+  }
+ },
+ "pistachio slivers": {
+  "food": "usda:170184",
+  "g": {
+   "tbsp": 6
+  }
+ },
+ "whole green moong": {
+  "food": "usda:174256",
+  "g": {
+   "cup": 200
+  },
+  "note": "raw dry"
+ },
+ "celery stalks with leaves": {
+  "food": "usda:169988",
+  "g": {
+   "count": 40
+  }
+ },
+ "butter or olive oil": {
+  "food": "usda:173410",
+  "g": {
+   "tbsp": 14.2
+  }
+ },
+ "fine vermicelli": {
+  "food": "usda:169736",
+  "g": {
+   "cup": 80
+  },
+  "note": "wheat seviyan ~ dry pasta; broken fine strands ~80 g/cup"
+ },
+ "maida mixed with ½ cup water": {
+  "food": "usda:168894",
+  "g": {
+   "tbsp": 7.8
+  }
+ },
+ "coriander and parsley": {
+  "mix": [
+   [
+    "usda:169997",
+    0.5
+   ],
+   [
+    "usda:170416",
+    0.5
+   ]
+  ],
+  "g": {
+   "cup": 30
+  }
+ },
+ "fava beans or boiled chitra rajma": {
+  "food": "usda:173753",
+  "g": {
+   "cups": 170
+  },
+  "note": "drained canned fava ~ boiled fava"
+ },
+ "pita breads or chapatis": {
+  "food": "usda:174915",
+  "g": {
+   "count": 60
+  }
+ },
+ "long-grain or sella basmati rice": {
+  "food": "usda:169756",
+  "g": {
+   "cups": 185
+  }
+ },
+ "red capsicums": {
+  "food": "usda:170108",
+  "g": {
+   "count": 120
+  }
+ },
+ "fresh red chillies": {
+  "food": "usda:170106",
+  "g": {
+   "count": 5
+  },
+  "note": "Indian fresh red chilli ~5 g"
+ },
+ "paneer cubes": {
+  "food": "ifct:paneer",
+  "g": {
+   "g": 1
+  },
+  "note": "frying oil not counted"
+ },
+ "white beans (cooked)": {
+  "food": "usda:175203",
+  "g": {
+   "cups": 179
+  }
+ },
+ "makki ka atta": {
+  "food": "usda:170290",
+  "g": {
+   "cups": 117
+  }
+ },
+ "tapioca flour": {
+  "food": "usda:169717",
+  "g": {
+   "cups": 120
+  },
+  "note": "tapioca pearl dry as starch proxy"
+ },
+ "soya granules": {
+  "food": "usda:174275",
+  "g": {
+   "cup": 90,
+   "g": 1
+  },
+  "note": "TVP = defatted soy flour; quantity assumed dry"
+ },
+ "cumin powder & dried oregano": {
+  "mix": [
+   [
+    "usda:170923",
+    0.68
+   ],
+   [
+    "usda:171328",
+    0.32
+   ]
+  ],
+  "g": {
+   "tsp each": 3.1
+  }
+ },
+ "sweet paprika": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "instant dry yeast & sugar": {
+  "mix": [
+   [
+    "usda:175043",
+    0.42
+   ],
+   [
+    "usda:169655",
+    0.58
+   ]
+  ],
+  "g": {
+   "tsp each": 7.3
+  }
+ },
+ "hot pepper sauce or green chilli chutney": {
+  "food": "usda:174527",
+  "g": {},
+  "toTaste": 5
+ },
+ "baking powder": {
+  "food": "usda:172803",
+  "g": {
+   "tsp": 4.6
+  }
+ },
+ "honey or maple syrup": {
+  "food": "usda:169640",
+  "g": {},
+  "asNeeded": 30
+ },
+ "sliced banana or berries": {
+  "food": "usda:173944",
+  "g": {
+   "cup": 150
+  }
+ },
+ "boiled rajma": {
+  "food": "usda:175194",
+  "g": {
+   "cups": 177
+  }
+ },
+ "green bell pepper": {
+  "food": "usda:170427",
+  "g": {
+   "medium": 119
+  }
+ },
+ "red chilli powder or chilli flakes": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "thick curd and grated vegetarian cheese": {
+  "mix": [
+   [
+    "usda:171284",
+    0.7
+   ],
+   [
+    "usda:170853",
+    0.3
+   ]
+  ],
+  "g": {
+   "cup": 190
+  }
+ },
+ "salt & fresh coriander": {
+  "food": "usda:173468",
+  "g": {},
+  "toTaste": 0,
+  "note": "script applies salt to-taste rule"
+ },
+ "fine makki atta": {
+  "food": "usda:170290",
+  "g": {
+   "cup": 117
+  }
+ },
+ "soft unsalted butter": {
+  "food": "usda:173430",
+  "g": {
+   "g": 1
+  }
+ },
+ "honey": {
+  "food": "usda:169640",
+  "g": {
+   "tbsp": 21
+  }
+ },
+ "salt and cinnamon": {
+  "mix": [
+   [
+    "usda:173468",
+    0.5
+   ],
+   [
+    "usda:171320",
+    0.5
+   ]
+  ],
+  "g": {
+   "pinch": 0.6
+  },
+  "note": "a pinch of each"
+ },
+ "vegetarian cheddar cheese": {
+  "food": "usda:173414",
+  "g": {
+   "g": 1
+  }
+ },
+ "fresh breadcrumbs": {
+  "food": "usda:174924",
+  "g": {
+   "cup": 45
+  }
+ },
+ "kashmiri chilli powder or paprika": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "almonds or walnuts": {
+  "food": "usda:170567",
+  "g": {
+   "tbsp": 8
+  }
+ },
+ "pumpkin or sunflower seeds": {
+  "food": "usda:170557",
+  "g": {
+   "tbsp": 7.4
+  }
+ },
+ "seasonal fruit": {
+  "mix": [
+   [
+    "usda:169134",
+    0.34
+   ],
+   [
+    "usda:173944",
+    0.33
+   ],
+   [
+    "usda:174683",
+    0.33
+   ]
+  ],
+  "g": {
+   "cup": 160
+  }
+ },
+ "tart apples": {
+  "food": "usda:171689",
+  "g": {
+   "medium": 160
+  }
+ },
+ "lemon juice and zest": {
+  "mix": [
+   [
+    "usda:167747",
+    0.8
+   ],
+   [
+    "usda:167749",
+    0.2
+   ]
+  ],
+  "g": {
+   "tbsp": 14
+  }
+ },
+ "walnuts": {
+  "food": "usda:170187",
+  "g": {
+   "cup": 117,
+   "g": 1
+  }
+ },
+ "icing sugar": {
+  "food": "usda:169656",
+  "g": {
+   "tbsp": 8
+  }
+ },
+ "vanilla custard or fresh cream": {
+  "food": "usda:169610",
+  "g": {},
+  "asNeeded": 200,
+  "note": "custard-powder custard ~ vanilla pudding made with whole milk"
+ },
+ "lukewarm milk": {
+  "food": "usda:171265",
+  "g": {
+   "cups": 244
+  }
+ },
+ "whipped cream": {
+  "food": "usda:170859",
+  "g": {
+   "cup": 120
+  },
+  "note": "heavy cream whipped"
+ },
+ "strawberries or banana": {
+  "food": "usda:167762",
+  "g": {
+   "cup": 166
+  }
+ },
+ "fresh soft paneer or chhena": {
+  "food": "ifct:paneer",
+  "g": {
+   "g": 1
+  }
+ },
+ "thick hung curd": {
+  "food": "usda:171304",
+  "g": {
+   "cup": 250
+  }
+ },
+ "berry jam or honey": {
+  "food": "usda:169641",
+  "g": {},
+  "asNeeded": 40
+ },
+ "soba noodles": {
+  "food": "usda:168906",
+  "g": {
+   "g": 1
+  },
+  "note": "dry soba, boiled from dry"
+ },
+ "green beans or baby corn": {
+  "food": "usda:169961",
+  "g": {
+   "pieces": 5.5
+  },
+  "note": "one bean ~5.5 g (USDA 10 beans = 55 g)"
+ },
+ "pumpkin wedge": {
+  "food": "usda:168448",
+  "g": {
+   "small": 80
+  }
+ },
+ "ice-cold soda water": {
+  "food": "none",
+  "g": {
+   "cup": 240
+  }
+ },
+ "japanese short-grain rice": {
+  "food": "usda:168931",
+  "g": {
+   "cups": 200
+  },
+  "note": "raw"
+ },
+ "sweet corn kernels (cooked)": {
+  "food": "usda:169999",
+  "g": {
+   "cup": 149
+  }
+ },
+ "eggless mayonnaise": {
+  "mix": [
+   [
+    "usda:167695",
+    0.5
+   ],
+   [
+    "usda:171009",
+    0.5
+   ]
+  ],
+  "g": {
+   "tbsp": 14
+  },
+  "note": "Indian eggless mayo ~450-500 kcal/100 g; tofu-mayo + regular mayo blend (~500 kcal)"
+ },
+ "toasted white and black sesame seeds": {
+  "food": "usda:170151",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "cooked basmati rice": {
+  "food": "usda:169757",
+  "g": {
+   "cups": 158
+  }
+ },
+ "white or black pepper powder": {
+  "food": "usda:170933",
+  "g": {
+   "tsp": 2.4
+  }
+ },
+ "celery leaves or coriander": {
+  "food": "usda:169988",
+  "g": {
+   "tbsp": 1.5
+  },
+  "note": "chopped leaves, light"
+ },
+ "soft or silken tofu": {
+  "food": "usda:174292",
+  "g": {
+   "g": 1
+  }
+ },
+ "white miso": {
+  "food": "usda:172442",
+  "g": {
+   "tbsp": 17
+  }
+ },
+ "sichuan pepper or nepali timur": {
+  "food": "usda:170931",
+  "g": {
+   "tsp": 2
+  },
+  "note": "no USDA Sichuan pepper; black pepper proxy (same as existing 'timur')"
+ },
+ "cornflour mixed in 3 tbsp water": {
+  "food": "usda:169698",
+  "g": {
+   "tbsp": 8
+  },
+  "note": "water ignored"
+ },
+ "coriander or celery leaves": {
+  "food": "usda:169997",
+  "g": {
+   "tbsp": 1
+  }
+ },
+ "glutinous rice": {
+  "food": "usda:168883",
+  "g": {
+   "cup": 185
+  },
+  "note": "soaked, measured raw"
+ },
+ "rice flour or cornflour": {
+  "food": "usda:169714",
+  "g": {
+   "tsp": 3.3
+  }
+ },
+ "ripe mangoes": {
+  "food": "usda:169910",
+  "g": {
+   "large": 220
+  },
+  "note": "large Alphonso/Banganapalli edible flesh ~220 g"
+ },
+ "pandan leaves": {
+  "food": "none",
+  "g": {
+   "count": 0
+  },
+  "note": "flavouring, removed"
+ },
+ "toasted sesame seeds or crisp yellow moong": {
+  "food": "usda:170151",
+  "g": {
+   "tbsp": 9
+  }
+ },
+ "carrot and 1 small brinjal": {
+  "mix": [
+   [
+    "usda:170393",
+    0.45
+   ],
+   [
+    "usda:169228",
+    0.55
+   ]
+  ],
+  "g": {
+   "small": 110
+  },
+  "note": "'1 small' = 1 small carrot (50 g) + 1 small brinjal (60 g)"
+ },
+ "thin coconut milk": {
+  "food": "usda:170173",
+  "g": {
+   "cup": 115
+  },
+  "note": "thin (second-press) milk ~1:1 diluted; counted as half a cup of canned coconut milk"
+ },
+ "malaysian or madras curry powder": {
+  "food": "usda:170924",
+  "g": {
+   "tbsp": 6.3
+  }
+ },
+ "turmeric": {
+  "food": "usda:172231",
+  "g": {
+   "tsp": 3
+  }
+ },
+ "mustard seeds and ½ tsp fennel seeds": {
+  "mix": [
+   [
+    "usda:170929",
+    0.77
+   ],
+   [
+    "usda:171323",
+    0.23
+   ]
+  ],
+  "g": {
+   "tsp": 4.3
+  },
+  "note": "recipe line is '1 tsp' mustard (3.3 g whole) + 1/2 tsp fennel (1 g); weight is for the whole line at qty 1"
+ },
+ "rice paper wrappers": {
+  "food": "usda:169714",
+  "g": {
+   "sheets": 9
+  },
+  "note": "no USDA rice paper; rice flour proxy (rice/tapioca, ~same kcal); 22 cm sheet ~9 g"
+ },
+ "thin rice vermicelli": {
+  "food": "usda:169742",
+  "g": {
+   "g": 1
+  },
+  "note": "dry"
+ },
+ "red cabbage": {
+  "food": "usda:169977",
+  "g": {
+   "small": 70
+  },
+  "note": "line says '(1 cup)' shredded = 70 g, so weight per stated amount, not a whole head"
+ },
+ "mint": {
+  "mix": [
+   [
+    "usda:173475",
+    0.34
+   ],
+   [
+    "usda:172232",
+    0.33
+   ],
+   [
+    "usda:169997",
+    0.33
+   ]
+  ],
+  "g": {
+   "cup": 20
+  },
+  "note": "mint + basil + coriander leaves"
+ },
+ "peanut butter": {
+  "food": "usda:172470",
+  "g": {
+   "tbsp": 16
+  },
+  "note": "unsweetened, unsalted smooth"
+ },
+ "lime juice": {
+  "food": "usda:168156",
+  "g": {
+   "tbsp": 15.4
+  }
+ },
+ "very ripe red tomatoes": {
+  "food": "usda:170457",
+  "g": {
+   "kg": 1000
+  }
+ },
+ "day-old white bread": {
+  "food": "usda:174924",
+  "g": {
+   "slices": 22
+  },
+  "note": "29 g slice minus crusts"
+ },
+ "smoked or sweet paprika": {
+  "food": "usda:171329",
+  "g": {
+   "tsp": 2.3
+  }
+ },
+ "finely diced cucumber": {
+  "mix": [
+   [
+    "usda:169225",
+    0.5
+   ],
+   [
+    "usda:170427",
+    0.3
+   ],
+   [
+    "usda:174925",
+    0.2
+   ]
+  ],
+  "g": {
+   "cup": 110
+  },
+  "note": "garnish of cucumber + capsicum + croutons"
+ },
+ "red chilli powder or cayenne": {
+  "food": "usda:170932",
+  "g": {
+   "tsp": 2.5
+  }
+ },
+ "rice flour or besan": {
+  "food": "usda:169714",
+  "g": {
+   "tbsp": 10
+  }
+ },
+ "eggless mayonnaise or fresh cream": {
+  "mix": [
+   [
+    "usda:167695",
+    0.5
+   ],
+   [
+    "usda:171009",
+    0.5
+   ]
+  ],
+  "g": {
+   "tbsp": 14
+  },
+  "note": "same as eggless mayonnaise"
+ },
+ "filo pastry sheets": {
+  "food": "usda:172791",
+  "g": {
+   "g": 1
+  }
+ },
+ "unsalted pistachios": {
+  "food": "usda:170184",
+  "g": {
+   "g": 1
+  }
+ },
+ "boondi": {
+  "food": "ifct:sev",
+  "g": {
+   "cup": 45
+  },
+  "note": "plain salted boondi = deep-fried besan drops; sev values used"
+ },
+ "watermelon": {
+  "food": "est:watermelon",
+  "g": {
+   "cup": 152
+  },
+  "note": "diced, seeds removed"
+ },
+ "papaya": {
+  "food": "est:papaya",
+  "g": {
+   "cup": 145
+  },
+  "note": "ripe, cubed"
+ },
+ "grapes": {
+  "food": "usda:174683",
+  "g": {
+   "cup": 151
+  }
+ },
+ "orange": {
+  "food": "usda:169097",
+  "g": {
+   "count": 131
+  }
+ },
+ "dried kokum": {
+  "food": "none",
+  "g": {
+   "count": 0
+  },
+  "note": "rinds are soaked and strained out; per-serving contribution negligible, not counted"
+ },
+ "bael pulp": {
+  "food": "est:bael-pulp",
+  "g": {
+   "cup": 200
+  },
+  "note": "ripe bael (stone apple) pulp, seeds removed"
+ },
+ "ash gourd": {
+  "food": "usda:170069",
+  "g": {
+   "cup": 116,
+   "cups": 116
+  },
+  "note": "USDA waxgourd = ash gourd / petha, raw cubed"
+ },
+ "pani puri shells": {
+  "food": "est:pani-puri-shell",
+  "g": {
+   "count": 3
+  },
+  "note": "one fried sooji golgappa ~3 g"
+ },
+ "puffed rice": {
+  "food": "est:puffed-rice",
+  "g": {
+   "cup": 14,
+   "cups": 14
+  },
+  "note": "murmura ~14 g per cup"
+ },
+ "white til": {
+  "food": "usda:170151",
+  "g": {
+   "cup": 144,
+   "tbsp": 9
+  },
+  "note": "white sesame, roasted"
+ },
+ "water chestnut flour": {
+  "food": "ifct:singhara-flour",
+  "g": {
+   "cup": 120,
+   "tbsp": 8
+  },
+  "note": "singhare ka atta; same food as 'singhara flour', with a cup weight"
+ },
+ "popped rajgira": {
+  "food": "est:amaranth-grain",
+  "g": {
+   "cup": 25
+  },
+  "note": "popped amaranth is very light; ~25 g per cup (approximate)"
+ },
+ "poha": {
+  "food": "est:poha",
+  "g": {
+   "cup": 70,
+   "cups": 70
+  },
+  "note": "thick poha, 1 cup ~70 g (approx.)"
+ },
+ "thick sev": {
+  "food": "ifct:sev",
+  "g": {
+   "cup": 50
+  }
+ },
+ "fruit salt": {
+  "mix": [
+   [
+    "usda:175040",
+    0.46
+   ]
+  ],
+  "g": {
+   "tsp": 5
+  },
+  "note": "Eno ~46% sodium bicarbonate; citric acid/carbonate counted as 0 (approx.)"
+ },
+ "kokum": {
+  "food": "none",
+  "g": {
+   "count": 2
+  },
+  "note": "dried kokum rind used for sourness; nutrients negligible at this amount"
+ }
+}
