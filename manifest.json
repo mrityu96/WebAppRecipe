@@ -1,0 +1,19 @@
+{
+  "name": "Sattvic Kitchen · Pure Vegetarian Meal Plan",
+  "short_name": "Sattvic Kitchen",
+  "description": "A 45-day no-onion, no-garlic Sattvic meal plan with global and Indian recipes, in English and Hindi.",
+  "id": "./",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf7f0",
+  "theme_color": "#e8892b",
+  "lang": "en",
+  "categories": ["food", "health", "lifestyle"],
+  "icons": [
+    { "src": "images/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "images/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "images/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
